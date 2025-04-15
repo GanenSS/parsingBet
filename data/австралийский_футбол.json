@@ -1,0 +1,1048 @@
+{
+  "sport": {
+    "sportId": "11638",
+    "sportName": "Австралийский футбол",
+    "championships": [
+      {
+        "championshipId": "13501",
+        "championshipName": "AFL",
+        "matches": [
+          {
+            "eventId": "54524068",
+            "time": "2025-04-17 12:30:00",
+            "team1": "Брисбен Лайонс",
+            "team2": "Коллинвуд Мэгпайс",
+            "odds": {
+              "1": 1.48,
+              "2": 2.63,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-12.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+12.5"
+              },
+              "TOTAL": "175.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54630420",
+                "parentId": "54524068",
+                "name": "1-я половина",
+                "time": "2025-04-17 12:30:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 1.56,
+                  "X": 36.0,
+                  "2": 2.4,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "-6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "+6.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54524069",
+                "parentId": "54524068",
+                "name": "1-я четверть",
+                "time": "2025-04-17 12:30:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 1.65,
+                  "X": 26.0,
+                  "2": 2.23,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.93,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54630421",
+                "parentId": "54524068",
+                "name": "2-я четверть",
+                "time": "2025-04-17 12:30:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 1.63,
+                  "X": 23.0,
+                  "2": 2.28,
+                  "HANDICAP 1": {
+                    "value": 1.95,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687046",
+                "parentId": "54524068",
+                "name": "3-я четверть",
+                "time": "2025-04-17 12:30:00",
+                "description": "",
+                "kind": 100403,
+                "odds": {
+                  "1": 1.63,
+                  "X": 21.0,
+                  "2": 2.28,
+                  "HANDICAP 1": {
+                    "value": 1.85,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.95,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687047",
+                "parentId": "54524068",
+                "name": "4-я четверть",
+                "time": "2025-04-17 12:30:00",
+                "description": "",
+                "kind": 100404,
+                "odds": {
+                  "1": 1.64,
+                  "X": 20.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.93,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54527302",
+            "time": "2025-04-18 08:20:00",
+            "team1": "Норт Мельбурн Кангарус",
+            "team2": "Карлтон Блюс",
+            "odds": {
+              "1": 3.15,
+              "2": 1.36,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+18.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-18.5"
+              },
+              "TOTAL": "179.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54630440",
+                "parentId": "54527302",
+                "name": "1-я половина",
+                "time": "2025-04-18 08:20:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 2.75,
+                  "X": 41.0,
+                  "2": 1.44,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+9.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-9.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54527303",
+                "parentId": "54527302",
+                "name": "1-я четверть",
+                "time": "2025-04-18 08:20:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 2.45,
+                  "X": 26.0,
+                  "2": 1.55,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-4.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54630441",
+                "parentId": "54527302",
+                "name": "2-я четверть",
+                "time": "2025-04-18 08:20:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 2.48,
+                  "X": 25.0,
+                  "2": 1.53,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-4.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687048",
+                "parentId": "54527302",
+                "name": "3-я четверть",
+                "time": "2025-04-18 08:20:00",
+                "description": "",
+                "kind": 100403,
+                "odds": {
+                  "1": 2.48,
+                  "X": 21.0,
+                  "2": 1.54,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-4.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687049",
+                "parentId": "54527302",
+                "name": "4-я четверть",
+                "time": "2025-04-18 08:20:00",
+                "description": "",
+                "kind": 100404,
+                "odds": {
+                  "1": 2.5,
+                  "X": 20.0,
+                  "2": 1.55,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-4.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54532825",
+            "time": "2025-04-18 11:10:00",
+            "team1": "Уэст-Кост Иглс",
+            "team2": "Эссендон Бомберс",
+            "odds": {
+              "1": 4.4,
+              "2": 1.21,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+27.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-27.5"
+              },
+              "TOTAL": "176.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54661966",
+                "parentId": "54532825",
+                "name": "1-я половина",
+                "time": "2025-04-18 11:10:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 3.45,
+                  "X": 41.0,
+                  "2": 1.3,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+13.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-13.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54532826",
+                "parentId": "54532825",
+                "name": "1-я четверть",
+                "time": "2025-04-18 11:10:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 2.85,
+                  "X": 29.0,
+                  "2": 1.43,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "+6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "-6.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54661967",
+                "parentId": "54532825",
+                "name": "2-я четверть",
+                "time": "2025-04-18 11:10:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 2.88,
+                  "X": 26.0,
+                  "2": 1.41,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "+6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "-6.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706374",
+                "parentId": "54532825",
+                "name": "3-я четверть",
+                "time": "2025-04-18 11:10:00",
+                "description": "",
+                "kind": 100403,
+                "odds": {
+                  "1": 2.9,
+                  "X": 23.0,
+                  "2": 1.41,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-6.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706375",
+                "parentId": "54532825",
+                "name": "4-я четверть",
+                "time": "2025-04-18 11:10:00",
+                "description": "",
+                "kind": 100404,
+                "odds": {
+                  "1": 2.95,
+                  "X": 20.0,
+                  "2": 1.42,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-6.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54547155",
+            "time": "2025-04-19 06:20:00",
+            "team1": "Мельбурн Демонс",
+            "team2": "Фримантл Докерс",
+            "odds": {
+              "1": 2.9,
+              "2": 1.41,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+15.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-15.5"
+              },
+              "TOTAL": "167.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54661968",
+                "parentId": "54547155",
+                "name": "1-я половина",
+                "time": "2025-04-19 06:20:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 2.6,
+                  "X": 36.0,
+                  "2": 1.49,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+7.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-7.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54547156",
+                "parentId": "54547155",
+                "name": "1-я четверть",
+                "time": "2025-04-19 06:20:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 2.38,
+                  "X": 25.0,
+                  "2": 1.58,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54661969",
+                "parentId": "54547155",
+                "name": "2-я четверть",
+                "time": "2025-04-19 06:20:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 2.38,
+                  "X": 23.0,
+                  "2": 1.58,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706367",
+                "parentId": "54547155",
+                "name": "3-я четверть",
+                "time": "2025-04-19 06:20:00",
+                "description": "",
+                "kind": 100403,
+                "odds": {
+                  "1": 2.38,
+                  "X": 23.0,
+                  "2": 1.58,
+                  "HANDICAP 1": {
+                    "value": 1.95,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706368",
+                "parentId": "54547155",
+                "name": "4-я четверть",
+                "time": "2025-04-19 06:20:00",
+                "description": "",
+                "kind": 100404,
+                "odds": {
+                  "1": 2.38,
+                  "X": 21.0,
+                  "2": 1.58,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54552990",
+            "time": "2025-04-19 09:15:00",
+            "team1": "Аделаида Кроус",
+            "team2": "ГВС Джайнтс",
+            "odds": {
+              "1": 1.8,
+              "2": 2.0,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-2.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+2.5"
+              },
+              "TOTAL": "185.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54687044",
+                "parentId": "54552990",
+                "name": "1-я половина",
+                "time": "2025-04-19 09:15:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 1.82,
+                  "X": 36.0,
+                  "2": 1.97,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54552991",
+                "parentId": "54552990",
+                "name": "1-я четверть",
+                "time": "2025-04-19 09:15:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 1.85,
+                  "X": 29.0,
+                  "2": 1.95,
+                  "HANDICAP 1": {
+                    "value": 2.0,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687045",
+                "parentId": "54552990",
+                "name": "2-я четверть",
+                "time": "2025-04-19 09:15:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 1.83,
+                  "X": 25.0,
+                  "2": 1.96,
+                  "HANDICAP 1": {
+                    "value": 2.0,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54552992",
+            "time": "2025-04-19 12:35:00",
+            "team1": "Ричмонд Тайгерс",
+            "team2": "Голд-Кост Санс",
+            "odds": {
+              "1": 9.0,
+              "2": 1.06,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+45.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-45.5"
+              },
+              "TOTAL": "183.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54687042",
+                "parentId": "54552992",
+                "name": "1-я половина",
+                "time": "2025-04-19 12:35:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 5.6,
+                  "X": 51.0,
+                  "2": 1.15,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "+22.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "-22.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54552993",
+                "parentId": "54552992",
+                "name": "1-я четверть",
+                "time": "2025-04-19 12:35:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 3.95,
+                  "X": 34.0,
+                  "2": 1.25,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+11.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-11.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687043",
+                "parentId": "54552992",
+                "name": "2-я четверть",
+                "time": "2025-04-19 12:35:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 4.0,
+                  "X": 30.0,
+                  "2": 1.23,
+                  "HANDICAP 1": {
+                    "value": 1.88,
+                    "param": "+11.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.92,
+                    "param": "-11.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54577690",
+            "time": "2025-04-20 08:20:00",
+            "team1": "Сидней Суонс",
+            "team2": "Порт Аделаида Пауэр",
+            "odds": {
+              "1": 1.43,
+              "2": 2.85,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-14.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+14.5"
+              },
+              "TOTAL": "173.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54687062",
+                "parentId": "54577690",
+                "name": "1-я половина",
+                "time": "2025-04-20 08:20:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 1.52,
+                  "X": 41.0,
+                  "2": 2.5,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "-7.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "+7.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54577691",
+                "parentId": "54577690",
+                "name": "1-я четверть",
+                "time": "2025-04-20 08:20:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 1.62,
+                  "X": 25.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54687063",
+                "parentId": "54577690",
+                "name": "2-я четверть",
+                "time": "2025-04-20 08:20:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 1.6,
+                  "X": 25.0,
+                  "2": 2.35,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54577688",
+            "time": "2025-04-20 12:20:00",
+            "team1": "Вестерн Бульдогс",
+            "team2": "Ст. Килда Сэйнтс",
+            "odds": {
+              "1": 1.54,
+              "2": 2.45,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-10.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+10.5"
+              },
+              "TOTAL": "182.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54706365",
+                "parentId": "54577688",
+                "name": "1-я половина",
+                "time": "2025-04-20 12:20:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 1.61,
+                  "X": 36.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.92,
+                    "param": "-5.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "+5.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54577689",
+                "parentId": "54577688",
+                "name": "1-я четверть",
+                "time": "2025-04-20 12:20:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 1.68,
+                  "X": 29.0,
+                  "2": 2.17,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706366",
+                "parentId": "54577688",
+                "name": "2-я четверть",
+                "time": "2025-04-20 12:20:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 1.67,
+                  "X": 25.0,
+                  "2": 2.18,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54597182",
+            "time": "2025-04-21 08:20:00",
+            "team1": "Джилонг Кэтс",
+            "team2": "Хоторн Хоукс",
+            "odds": {
+              "1": 1.85,
+              "2": 1.96,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+1.5"
+              },
+              "TOTAL": "175.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54706363",
+                "parentId": "54597182",
+                "name": "1-я половина",
+                "time": "2025-04-21 08:20:00",
+                "description": "",
+                "kind": 100301,
+                "odds": {
+                  "1": 1.85,
+                  "X": 36.0,
+                  "2": 1.93,
+                  "HANDICAP 1": {
+                    "value": 1.95,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54597183",
+                "parentId": "54597182",
+                "name": "1-я четверть",
+                "time": "2025-04-21 08:20:00",
+                "description": "",
+                "kind": 100401,
+                "odds": {
+                  "1": 1.87,
+                  "X": 26.0,
+                  "2": 1.93,
+                  "HANDICAP 1": {
+                    "value": 2.05,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.78,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              },
+              {
+                "eventId": "54706364",
+                "parentId": "54597182",
+                "name": "2-я четверть",
+                "time": "2025-04-21 08:20:00",
+                "description": "",
+                "kind": 100402,
+                "odds": {
+                  "1": 1.86,
+                  "X": 23.0,
+                  "2": 1.94,
+                  "HANDICAP 1": {
+                    "value": 2.03,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.78,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54704487",
+            "time": "2025-04-24 12:30:00",
+            "team1": "Мельбурн Демонс",
+            "team2": "Ричмонд Тайгерс",
+            "odds": {
+              "1": 1.33,
+              "2": 3.35,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-19.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+19.5"
+              }
+            },
+            "events": []
+          },
+          {
+            "eventId": "54707379",
+            "time": "2025-04-25 08:20:00",
+            "team1": "Коллинвуд Мэгпайс",
+            "team2": "Эссендон Бомберс",
+            "odds": {
+              "1": 1.31,
+              "2": 3.5,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-20.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+20.5"
+              }
+            },
+            "events": []
+          },
+          {
+            "eventId": "54719205",
+            "time": "2025-04-25 13:10:00",
+            "team1": "Фримантл Докерс",
+            "team2": "Аделаида Кроус",
+            "odds": {
+              "1": 1.78,
+              "2": 2.05,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+3.5"
+              }
+            },
+            "events": []
+          }
+        ]
+      }
+    ]
+  }
+}

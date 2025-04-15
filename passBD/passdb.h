@@ -24,12 +24,9 @@ public:
     explicit passDB(QObject *parent = nullptr);
     ~passDB();
 
-    bool createConnection();
-
     struct Sport {
         int id;
         QString name;
-        QString url;
     };
 
     struct Championship {
@@ -40,6 +37,7 @@ public:
 
     struct Match {
         int id;
+        QString eventId;
         QString team1;
         QString team2;
         QString time;
@@ -47,9 +45,31 @@ public:
         QString coefficient_first;
         QString coefficient_draw;
         QString coefficient_second;
-        QString coefficient_first_fora;
-        QString coefficient_second_fora;
-        QString coefficient_total;
+        QString handicap1_value;
+        QString handicap1_param;
+        QString handicap2_value;
+        QString handicap2_param;
+        QString total_value;
+        QString coefficient_over;
+        QString coefficient_under;
+    };
+
+    struct Event {
+        int id;
+        int matchId;
+        int parentEventId;
+        QString eventId;
+        QString name;
+        QString time;
+        QString description;
+        QString coefficient_1;
+        QString coefficient_X;
+        QString coefficient_2;
+        QString handicap1_value;
+        QString handicap1_param;
+        QString handicap2_value;
+        QString handicap2_param;
+        QString total_value;
         QString coefficient_over;
         QString coefficient_under;
     };
@@ -57,9 +77,11 @@ public:
     void addSport(const Sport &sport);
     void addChampionship(const Championship &championship);
     void addMatch(const Match &match);
+    void addEvent(const Event &event);
     void importJsonFile(const QString &filePath);
     void importAllJsonFiles(const QString &directoryPath);
     void clearAllTables();
+    bool createConnection();
 
     bool startPythonParser();
     void startParsingCycle();
@@ -80,6 +102,7 @@ private:
     const QString dbPassword = "1+Qwertis+1";
 
     void log(const QString &message, const QString &level = "INFO");
+    void processEvents(const QJsonArray &events, int matchId, int parentEventId);
 };
 
 #endif // PASSDB_H

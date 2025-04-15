@@ -1,0 +1,120 @@
+{
+  "sport": {
+    "sportId": "17355",
+    "sportName": "Сквош",
+    "championships": [
+      {
+        "championshipId": "39562",
+        "championshipName": "PSA World Tour. Мужчины. El Gouna International. Египет",
+        "matches": [
+          {
+            "eventId": "54707712",
+            "time": "2025-04-16 20:15:00",
+            "team1": "Ибрахим Ю",
+            "team2": "Асал М",
+            "odds": {
+              "1": 6.2,
+              "2": 1.09
+            },
+            "events": [
+              {
+                "eventId": "54707713",
+                "parentId": "54707712",
+                "name": "1-й сет",
+                "time": "2025-04-16 20:15:00",
+                "description": "",
+                "kind": 100501,
+                "odds": {
+                  "1": 3.25,
+                  "2": 1.3
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54707714",
+            "time": "2025-04-16 21:45:00",
+            "team1": "Колл П",
+            "team2": "Закария М",
+            "odds": {
+              "1": 1.2,
+              "2": 3.95
+            },
+            "events": [
+              {
+                "eventId": "54707715",
+                "parentId": "54707714",
+                "name": "1-й сет",
+                "time": "2025-04-16 21:45:00",
+                "description": "",
+                "kind": 100501,
+                "odds": {
+                  "1": 1.42,
+                  "2": 2.65
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "39563",
+        "championshipName": "PSA World Tour. Женщины. El Gouna International. Египет",
+        "matches": [
+          {
+            "eventId": "54707722",
+            "time": "2025-04-16 19:30:00",
+            "team1": "Орфи А",
+            "team2": "Эль Шербини Н",
+            "odds": {
+              "1": 4.3,
+              "2": 1.18
+            },
+            "events": [
+              {
+                "eventId": "54707723",
+                "parentId": "54707722",
+                "name": "1-й сет",
+                "time": "2025-04-16 19:30:00",
+                "description": "",
+                "kind": 100501,
+                "odds": {
+                  "1": 2.75,
+                  "2": 1.4
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54707720",
+            "time": "2025-04-16 21:00:00",
+            "team1": "Уивер О",
+            "team2": "Гилис Т",
+            "odds": {
+              "1": 1.17,
+              "2": 4.5
+            },
+            "events": [
+              {
+                "eventId": "54707721",
+                "parentId": "54707720",
+                "name": "1-й сет",
+                "time": "2025-04-16 21:00:00",
+                "description": "",
+                "kind": 100501,
+                "odds": {
+                  "1": 1.38,
+                  "2": 2.8
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

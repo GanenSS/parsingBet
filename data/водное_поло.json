@@ -1,0 +1,204 @@
+{
+  "sport": {
+    "sportId": "1219",
+    "sportName": "Водное поло",
+    "championships": [
+      {
+        "championshipId": "123471",
+        "championshipName": "Кубок мира. Женщины. 1-й дивизион. Китай. 1/4 финала",
+        "matches": [
+          {
+            "eventId": "54691253",
+            "time": "2025-04-18 10:30:00",
+            "team1": "Нидерланды (ж)",
+            "team2": "Япония (ж)",
+            "odds": {
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-8.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+8.5"
+              },
+              "TOTAL": "28.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54691254",
+                "parentId": "54691253",
+                "name": "1-й период",
+                "time": "2025-04-18 10:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 1.2,
+                  "X": 7.5,
+                  "2": 7.73,
+                  "HANDICAP 1": {
+                    "value": 2.1,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.65,
+                    "param": "+2.5"
+                  },
+                  "TOTAL": "6.5",
+                  "OVER": 1.63,
+                  "UNDER": 2.13
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691251",
+            "time": "2025-04-18 12:00:00",
+            "team1": "Греция (ж)",
+            "team2": "Италия (ж)",
+            "odds": {
+              "1": 2.05,
+              "X": 6.7,
+              "2": 2.2,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "0"
+              },
+              "TOTAL": "22.5",
+              "OVER": 1.75,
+              "UNDER": 1.96
+            },
+            "events": [
+              {
+                "eventId": "54691252",
+                "parentId": "54691251",
+                "name": "1-й период",
+                "time": "2025-04-18 12:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.23,
+                  "X": 4.9,
+                  "2": 2.32,
+                  "HANDICAP 1": {
+                    "value": 1.82,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "0"
+                  },
+                  "TOTAL": "5.5",
+                  "OVER": 1.8,
+                  "UNDER": 1.9
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691255",
+            "time": "2025-04-18 15:30:00",
+            "team1": "Испания (ж)",
+            "team2": "Китай (ж)",
+            "odds": {
+              "HANDICAP 1": {
+                "value": 1.83,
+                "param": "-9.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+9.5"
+              },
+              "TOTAL": "25.5",
+              "OVER": 1.84,
+              "UNDER": 1.86
+            },
+            "events": [
+              {
+                "eventId": "54691256",
+                "parentId": "54691255",
+                "name": "1-й период",
+                "time": "2025-04-18 15:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 1.15,
+                  "X": 8.0,
+                  "2": 9.8,
+                  "HANDICAP 1": {
+                    "value": 1.7,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 2.02,
+                    "param": "+2.5"
+                  },
+                  "TOTAL": "6.5",
+                  "OVER": 2.0,
+                  "UNDER": 1.72
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691259",
+            "time": "2025-04-18 17:00:00",
+            "team1": "Австралия (ж)",
+            "team2": "Венгрия (ж)",
+            "odds": {
+              "1": 4.3,
+              "X": 7.0,
+              "2": 1.37,
+              "HANDICAP 1": {
+                "value": 1.75,
+                "param": "+2.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.96,
+                "param": "-2.5"
+              },
+              "TOTAL": "23.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54691260",
+                "parentId": "54691259",
+                "name": "1-й период",
+                "time": "2025-04-18 17:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 3.1,
+                  "X": 4.9,
+                  "2": 1.75,
+                  "HANDICAP 1": {
+                    "value": 2.37,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.51,
+                    "param": "0"
+                  },
+                  "TOTAL": "5.5",
+                  "OVER": 1.72,
+                  "UNDER": 2.0
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

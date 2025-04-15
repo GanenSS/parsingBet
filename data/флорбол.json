@@ -1,0 +1,821 @@
+{
+  "sport": {
+    "sportId": "11627",
+    "sportName": "Флорбол",
+    "championships": [
+      {
+        "championshipId": "62988",
+        "championshipName": "Чехия. Суперлига. 1/2 финала. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54682937",
+            "time": "2025-04-16 21:00:00",
+            "team1": "ФБС Богемианс",
+            "team2": "Татран Стрешовице",
+            "odds": {
+              "1": 2.7,
+              "X": 5.3,
+              "2": 1.9,
+              "HANDICAP 1": {
+                "value": 2.22,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.59,
+                "param": "0"
+              },
+              "TOTAL": "9.5",
+              "OVER": 1.8,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54682938",
+                "parentId": "54682937",
+                "name": "1-й период",
+                "time": "2025-04-16 21:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.75,
+                  "X": 3.8,
+                  "2": 2.22,
+                  "HANDICAP 1": {
+                    "value": 2.07,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.67,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.65,
+                  "UNDER": 2.1
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "75311",
+        "championshipName": "Чехия. Суперлига. Плей-аут. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54682919",
+            "time": "2025-04-16 21:00:00",
+            "team1": "Флорбал Вары",
+            "team2": "Бульдогс Брно",
+            "odds": {
+              "1": 1.42,
+              "X": 5.9,
+              "2": 4.6,
+              "HANDICAP 1": {
+                "value": 1.7,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 2.03,
+                "param": "+1.5"
+              },
+              "TOTAL": "7.5",
+              "OVER": 1.75,
+              "UNDER": 1.96
+            },
+            "events": [
+              {
+                "eventId": "54682920",
+                "parentId": "54682919",
+                "name": "1-й период",
+                "time": "2025-04-16 21:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 1.77,
+                  "X": 3.55,
+                  "2": 4.3,
+                  "HANDICAP 1": {
+                    "value": 1.34,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 3.0,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 2.15,
+                  "UNDER": 1.62
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "62657",
+        "championshipName": "Швеция. Суперлига. 1/2 финала. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54702617",
+            "time": "2025-04-16 19:30:00",
+            "team1": "ИБФ Фалун",
+            "team2": "Векше ИБК",
+            "odds": {
+              "1": 1.77,
+              "X": 5.2,
+              "2": 3.0,
+              "HANDICAP 1": {
+                "value": 2.33,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.53,
+                "param": "+1.5"
+              },
+              "TOTAL": "8.5",
+              "OVER": 1.94,
+              "UNDER": 1.77
+            },
+            "events": [
+              {
+                "eventId": "54702618",
+                "parentId": "54702617",
+                "name": "1-й период",
+                "time": "2025-04-16 19:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.17,
+                  "X": 3.5,
+                  "2": 3.0,
+                  "HANDICAP 1": {
+                    "value": 1.61,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 2.17,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.94,
+                  "UNDER": 1.77
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "87992",
+        "championshipName": "Швейцария. Прайм Лига. 1/2 финала. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54654518",
+            "time": "2025-04-16 20:30:00",
+            "team1": "Тайгерс Лангнау",
+            "team2": "Кениц Берн",
+            "odds": {
+              "1": 2.02,
+              "X": 5.4,
+              "2": 2.4,
+              "HANDICAP 1": {
+                "value": 1.7,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 2.02,
+                "param": "0"
+              },
+              "TOTAL": "11.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54654519",
+                "parentId": "54654518",
+                "name": "1-й период",
+                "time": "2025-04-16 20:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.27,
+                  "X": 4.15,
+                  "2": 2.52,
+                  "HANDICAP 1": {
+                    "value": 1.75,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.96,
+                    "param": "0"
+                  },
+                  "TOTAL": "3.5",
+                  "OVER": 1.99,
+                  "UNDER": 1.73
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "76797",
+        "championshipName": "Словакия. Экстралига. Финал. До 3-х побед",
+        "matches": [
+          {
+            "eventId": "54682931",
+            "time": "2025-04-19 19:00:00",
+            "team1": "Лидо Природоведец",
+            "team2": "Цунами Загорска Быстрица",
+            "odds": {
+              "1": 2.0,
+              "X": 5.2,
+              "2": 2.5,
+              "HANDICAP 1": {
+                "value": 1.67,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 2.07,
+                "param": "0"
+              },
+              "TOTAL": "10.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54682932",
+                "parentId": "54682931",
+                "name": "1-й период",
+                "time": "2025-04-19 19:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.27,
+                  "X": 4.0,
+                  "2": 2.6,
+                  "HANDICAP 1": {
+                    "value": 1.73,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.99,
+                    "param": "0"
+                  },
+                  "TOTAL": "3.5",
+                  "OVER": 2.25,
+                  "UNDER": 1.57
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "88327",
+        "championshipName": "Чехия. 1-я лига. Финал. До 3-х побед",
+        "matches": [
+          {
+            "eventId": "54682939",
+            "time": "2025-04-18 19:00:00",
+            "team1": "ФБС Хеттрик Брно",
+            "team2": "Флорбал Усти",
+            "odds": {
+              "1": 2.25,
+              "X": 4.9,
+              "2": 2.25,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "0"
+              },
+              "TOTAL": "9.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54682940",
+                "parentId": "54682939",
+                "name": "1-й период",
+                "time": "2025-04-18 19:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.47,
+                  "X": 3.7,
+                  "2": 2.47,
+                  "HANDICAP 1": {
+                    "value": 1.85,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.67,
+                  "UNDER": 2.07
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "106391",
+        "championshipName": "Чехия. 1-я лига. Переходные матчи. До 3-х побед",
+        "matches": [
+          {
+            "eventId": "54682951",
+            "time": "2025-04-18 16:00:00",
+            "team1": "ФБС Оломоуц",
+            "team2": "Орка Стара-Болеслав",
+            "odds": {
+              "1": 4.3,
+              "X": 6.0,
+              "2": 1.45,
+              "HANDICAP 1": {
+                "value": 1.99,
+                "param": "+1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.73,
+                "param": "-1.5"
+              },
+              "TOTAL": "10.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54682952",
+                "parentId": "54682951",
+                "name": "1-й период",
+                "time": "2025-04-18 16:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 3.55,
+                  "X": 4.15,
+                  "2": 1.8,
+                  "HANDICAP 1": {
+                    "value": 2.65,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.42,
+                    "param": "0"
+                  },
+                  "TOTAL": "3.5",
+                  "OVER": 2.25,
+                  "UNDER": 1.57
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54682949",
+            "time": "2025-04-18 20:00:00",
+            "team1": "Старт98 Кунратице",
+            "team2": "Сокол Брно",
+            "odds": {
+              "1": 4.7,
+              "X": 6.2,
+              "2": 1.4,
+              "HANDICAP 1": {
+                "value": 1.67,
+                "param": "+2.5"
+              },
+              "HANDICAP 2": {
+                "value": 2.07,
+                "param": "-2.5"
+              },
+              "TOTAL": "10.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54682950",
+                "parentId": "54682949",
+                "name": "1-й период",
+                "time": "2025-04-18 20:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 3.7,
+                  "X": 4.15,
+                  "2": 1.73,
+                  "HANDICAP 1": {
+                    "value": 2.8,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.38,
+                    "param": "0"
+                  },
+                  "TOTAL": "3.5",
+                  "OVER": 2.25,
+                  "UNDER": 1.57
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "63050",
+        "championshipName": "Финляндия. Женщины. Ф-Лиига. Финал. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54570128",
+            "time": "2025-04-16 18:30:00",
+            "team1": "ТПС (ж)",
+            "team2": "Классик (ж)",
+            "odds": {
+              "1": 1.75,
+              "X": 4.5,
+              "2": 3.3,
+              "HANDICAP 1": {
+                "value": 2.35,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.52,
+                "param": "+1.5"
+              },
+              "TOTAL": "7.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54570129",
+                "parentId": "54570128",
+                "name": "1-й период",
+                "time": "2025-04-16 18:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.15,
+                  "X": 3.3,
+                  "2": 3.2,
+                  "HANDICAP 1": {
+                    "value": 1.56,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 2.27,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 2.23,
+                  "UNDER": 1.58
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "63049",
+        "championshipName": "Финляндия. Женщины. Ф-Лиига. За 3-е место",
+        "matches": [
+          {
+            "eventId": "54570816",
+            "time": "2025-04-19 17:00:00",
+            "team1": "СБ-Про (ж)",
+            "team2": "ЭряВиикингит (ж)",
+            "odds": {
+              "1": 2.3,
+              "X": 3.95,
+              "2": 2.45,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "0"
+              },
+              "TOTAL": "6.5",
+              "OVER": 2.0,
+              "UNDER": 1.72
+            },
+            "events": [
+              {
+                "eventId": "54570817",
+                "parentId": "54570816",
+                "name": "1-й период",
+                "time": "2025-04-19 17:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.65,
+                  "X": 2.97,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.82,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "0"
+                  },
+                  "TOTAL": "1.5",
+                  "OVER": 1.61,
+                  "UNDER": 2.17
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "63419",
+        "championshipName": "Чехия. Женщины. Экстралига. 1/2 финала. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54682955",
+            "time": "2025-04-16 19:00:00",
+            "team1": "ФБК Острава (ж)",
+            "team2": "Витковице (ж)",
+            "odds": {
+              "1": 2.2,
+              "X": 4.8,
+              "2": 2.3,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "0"
+              },
+              "TOTAL": "6.5",
+              "OVER": 1.75,
+              "UNDER": 1.96
+            },
+            "events": [
+              {
+                "eventId": "54682956",
+                "parentId": "54682955",
+                "name": "1-й период",
+                "time": "2025-04-16 19:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.62,
+                  "X": 3.05,
+                  "2": 2.7,
+                  "HANDICAP 1": {
+                    "value": 1.82,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "0"
+                  },
+                  "TOTAL": "1.5",
+                  "OVER": 1.53,
+                  "UNDER": 2.33
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54682966",
+            "time": "2025-04-16 21:00:00",
+            "team1": "Татран Стрешовице (ж)",
+            "team2": "Флорбал Ходов (ж)",
+            "odds": {
+              "1": 1.8,
+              "X": 5.8,
+              "2": 2.75,
+              "HANDICAP 1": {
+                "value": 1.55,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 2.3,
+                "param": "0"
+              },
+              "TOTAL": "8.5",
+              "OVER": 1.88,
+              "UNDER": 1.82
+            },
+            "events": [
+              {
+                "eventId": "54682967",
+                "parentId": "54682966",
+                "name": "1-й период",
+                "time": "2025-04-16 21:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.22,
+                  "X": 3.55,
+                  "2": 2.9,
+                  "HANDICAP 1": {
+                    "value": 1.65,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 2.1,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.9,
+                  "UNDER": 1.8
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "104371",
+        "championshipName": "Чехия. Женщины. Экстралига. Плей-аут",
+        "matches": [
+          {
+            "eventId": "54682991",
+            "time": "2025-04-19 19:00:00",
+            "team1": "Флорбал Жиденице (ж)",
+            "team2": "ФБК Добрушка (ж)",
+            "odds": {
+              "1": 2.2,
+              "X": 4.7,
+              "2": 2.35,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "0"
+              },
+              "TOTAL": "8.5",
+              "OVER": 1.65,
+              "UNDER": 2.1
+            },
+            "events": [
+              {
+                "eventId": "54682992",
+                "parentId": "54682991",
+                "name": "1-й период",
+                "time": "2025-04-19 19:00:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.45,
+                  "X": 3.65,
+                  "2": 2.52,
+                  "HANDICAP 1": {
+                    "value": 1.82,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.88,
+                    "param": "0"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.77,
+                  "UNDER": 1.94
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "62658",
+        "championshipName": "Швеция. Женщины. Суперлига. 1/2 финала. До 3-х побед",
+        "matches": [
+          {
+            "eventId": "54686954",
+            "time": "2025-04-16 19:30:00",
+            "team1": "Пиксбо ИБК (ж)",
+            "team2": "Вестерос Реннбю ИБК (ж)",
+            "odds": {
+              "1": 1.25,
+              "X": 7.9,
+              "2": 5.9,
+              "HANDICAP 1": {
+                "value": 2.07,
+                "param": "-3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.67,
+                "param": "+3.5"
+              },
+              "TOTAL": "10.5",
+              "OVER": 1.99,
+              "UNDER": 1.73
+            },
+            "events": [
+              {
+                "eventId": "54686955",
+                "parentId": "54686954",
+                "name": "1-й период",
+                "time": "2025-04-16 19:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 1.55,
+                  "X": 4.4,
+                  "2": 4.7,
+                  "HANDICAP 1": {
+                    "value": 2.47,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.48,
+                    "param": "+1.5"
+                  },
+                  "TOTAL": "2.5",
+                  "OVER": 1.55,
+                  "UNDER": 2.3
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "87637",
+        "championshipName": "Швейцария. Женщины. Прайм Лига. 1/2 финала. До 4-х побед",
+        "matches": [
+          {
+            "eventId": "54649842",
+            "time": "2025-04-16 20:30:00",
+            "team1": "Цольбрюк (ж)",
+            "team2": "Цуг Юнайтед (ж)",
+            "odds": {
+              "1": 2.1,
+              "X": 4.1,
+              "2": 2.65,
+              "HANDICAP 1": {
+                "value": 1.67,
+                "param": "0"
+              },
+              "HANDICAP 2": {
+                "value": 2.07,
+                "param": "0"
+              },
+              "TOTAL": "6.5",
+              "OVER": 1.75,
+              "UNDER": 1.95
+            },
+            "events": [
+              {
+                "eventId": "54649843",
+                "parentId": "54649842",
+                "name": "1-й период",
+                "time": "2025-04-16 20:30:00",
+                "description": "",
+                "kind": 100101,
+                "odds": {
+                  "1": 2.47,
+                  "X": 3.1,
+                  "2": 2.85,
+                  "HANDICAP 1": {
+                    "value": 1.73,
+                    "param": "0"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.99,
+                    "param": "0"
+                  },
+                  "TOTAL": "1.5",
+                  "OVER": 1.52,
+                  "UNDER": 2.35
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2609 @@
+{
+  "sport": {
+    "sportId": "16",
+    "sportName": "Регби",
+    "championships": [
+      {
+        "championshipId": "122257",
+        "championshipName": "Регби-Союз. Россия. Суперкубок. Санкт-Петербург",
+        "matches": [
+          {
+            "eventId": "54122259",
+            "time": "2025-04-26 16:30:00",
+            "team1": "Енисей-СТМ Красноярск",
+            "team2": "Стрела-Ак Барс Казань",
+            "odds": {
+              "1": 1.5,
+              "X": 26.0,
+              "2": 2.7,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+5.5"
+              },
+              "TOTAL": "43.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54122260",
+                "parentId": "54122259",
+                "name": "1-й тайм",
+                "time": "2025-04-26 16:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.65,
+                  "X": 15.0,
+                  "2": 2.5,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  },
+                  "TOTAL": "21.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "123484",
+        "championshipName": "Регби-Союз. Россия. Товарищеские матчи. Калининград",
+        "matches": [
+          {
+            "eventId": "54701092",
+            "time": "2025-04-16 16:00:00",
+            "team1": "Балтийский Шторм Калининград",
+            "team2": "Россия U19",
+            "odds": {
+              "1": 1.14,
+              "X": 40.0,
+              "2": 5.5,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-14.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+14.5"
+              },
+              "TOTAL": "48.5",
+              "OVER": 1.85,
+              "UNDER": 1.85
+            },
+            "events": [
+              {
+                "eventId": "54701093",
+                "parentId": "54701092",
+                "name": "1-й тайм",
+                "time": "2025-04-16 16:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.3,
+                  "X": 19.0,
+                  "2": 3.75,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+6.5"
+                  },
+                  "TOTAL": "23.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "88758",
+        "championshipName": "Регби-Союз. Кубок европейских чемпионов. 1/2 финала",
+        "matches": [
+          {
+            "eventId": "54690888",
+            "time": "2025-05-03 19:30:00",
+            "team1": "Лейнстер",
+            "team2": "Нортгемптон Сэйнтс",
+            "odds": {
+              "1": 1.01,
+              "X": 50.0,
+              "2": 14.0,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-21.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+21.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690889",
+                "parentId": "54690888",
+                "name": "1-й тайм",
+                "time": "2025-05-03 19:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.14,
+                  "X": 24.0,
+                  "2": 6.2,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "-10.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.77,
+                    "param": "+10.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54690900",
+            "time": "2025-05-04 17:00:00",
+            "team1": "Бордо Бегль",
+            "team2": "Тулуза",
+            "odds": {
+              "1": 2.45,
+              "X": 26.0,
+              "2": 1.57,
+              "HANDICAP 1": {
+                "value": 1.83,
+                "param": "+4.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "-4.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690901",
+                "parentId": "54690900",
+                "name": "1-й тайм",
+                "time": "2025-05-04 17:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.35,
+                  "X": 13.0,
+                  "2": 1.72,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "+2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "64142",
+        "championshipName": "Регби-Союз. Англия. Премьер-лига",
+        "matches": [
+          {
+            "eventId": "54691236",
+            "time": "2025-04-18 21:45:00",
+            "team1": "Ньюкасл Фэлконс",
+            "team2": "Нортгемптон Сэйнтс",
+            "odds": {
+              "1": 9.0,
+              "X": 50.0,
+              "2": 1.05,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "+18.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "-18.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54691237",
+                "parentId": "54691236",
+                "name": "1-й тайм",
+                "time": "2025-04-18 21:45:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 5.0,
+                  "X": 21.0,
+                  "2": 1.2,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "+8.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "-8.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691230",
+            "time": "2025-04-19 17:00:00",
+            "team1": "Эксетер Чифс",
+            "team2": "Бат",
+            "odds": {
+              "1": 3.8,
+              "X": 30.0,
+              "2": 1.28,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "+9.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "-9.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54691231",
+                "parentId": "54691230",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.95,
+                  "X": 16.0,
+                  "2": 1.47,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-4.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691233",
+            "time": "2025-04-19 17:05:00",
+            "team1": "Харлеквинс",
+            "team2": "Сейл Шаркс",
+            "odds": {
+              "1": 1.62,
+              "X": 24.0,
+              "2": 2.35,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+3.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54691234",
+                "parentId": "54691233",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.75,
+                  "X": 13.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691413",
+            "time": "2025-04-19 19:30:00",
+            "team1": "Сэрасенс",
+            "team2": "Глостер",
+            "odds": {
+              "1": 1.09,
+              "X": 40.0,
+              "2": 7.2,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-15.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+15.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54691414",
+                "parentId": "54691413",
+                "name": "1-й тайм",
+                "time": "2025-04-19 19:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.27,
+                  "X": 19.0,
+                  "2": 4.1,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-7.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+7.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54691409",
+            "time": "2025-04-20 17:00:00",
+            "team1": "Бристоль Беарс",
+            "team2": "Лестер Тайгерс",
+            "odds": {
+              "1": 1.4,
+              "X": 27.0,
+              "2": 3.05,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54691410",
+                "parentId": "54691409",
+                "name": "1-й тайм",
+                "time": "2025-04-20 17:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.6,
+                  "X": 15.0,
+                  "2": 2.55,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.77,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "58007",
+        "championshipName": "Регби-Союз. Франция. Топ 14",
+        "matches": [
+          {
+            "eventId": "54664213",
+            "time": "2025-04-19 15:30:00",
+            "team1": "По",
+            "team2": "Бордо Бегль",
+            "odds": {
+              "1": 1.67,
+              "X": 23.0,
+              "2": 2.3,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-2.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.95,
+                "param": "+2.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54664214",
+                "parentId": "54664213",
+                "name": "1-й тайм",
+                "time": "2025-04-19 15:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.8,
+                  "X": 13.0,
+                  "2": 2.25,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663879",
+            "time": "2025-04-19 17:30:00",
+            "team1": "Кастр",
+            "team2": "Ванн",
+            "odds": {
+              "1": 1.18,
+              "X": 30.0,
+              "2": 5.0,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-10.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.95,
+                "param": "+10.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663880",
+                "parentId": "54663879",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.4,
+                  "X": 17.0,
+                  "2": 3.2,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-5.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "+5.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54664120",
+            "time": "2025-04-19 17:30:00",
+            "team1": "Стад Рошель",
+            "team2": "Байонна",
+            "odds": {
+              "1": 1.3,
+              "X": 29.0,
+              "2": 3.5,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "-7.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "+7.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54664121",
+                "parentId": "54664120",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.53,
+                  "X": 16.0,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.85,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54664123",
+            "time": "2025-04-19 17:30:00",
+            "team1": "Лион",
+            "team2": "Монпелье",
+            "odds": {
+              "1": 1.3,
+              "X": 29.0,
+              "2": 3.55,
+              "HANDICAP 1": {
+                "value": 1.95,
+                "param": "-8.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+8.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54664124",
+                "parentId": "54664123",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.53,
+                  "X": 16.0,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54664217",
+            "time": "2025-04-19 17:30:00",
+            "team1": "Перпиньян",
+            "team2": "Расинг 92",
+            "odds": {
+              "1": 1.75,
+              "X": 23.0,
+              "2": 2.15,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.95,
+                "param": "+1.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54664218",
+                "parentId": "54664217",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.85,
+                  "X": 13.0,
+                  "2": 2.15,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.77,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54707750",
+            "time": "2025-04-19 22:05:00",
+            "team1": "Тулон",
+            "team2": "Клермон",
+            "odds": {
+              "1": 1.13,
+              "X": 30.0,
+              "2": 5.9,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "-11.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "+11.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54707751",
+                "parentId": "54707750",
+                "name": "1-й тайм",
+                "time": "2025-04-19 22:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.38,
+                  "X": 17.0,
+                  "2": 3.35,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-5.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+5.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "70511",
+        "championshipName": "Регби-Союз. Юнайтед Чемпионшип",
+        "matches": [
+          {
+            "eventId": "54692757",
+            "time": "2025-04-18 21:35:00",
+            "team1": "Эдинбург",
+            "team2": "Шаркс",
+            "odds": {
+              "1": 1.7,
+              "X": 23.0,
+              "2": 2.25,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-2.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+2.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692758",
+                "parentId": "54692757",
+                "name": "1-й тайм",
+                "time": "2025-04-18 21:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.82,
+                  "X": 13.0,
+                  "2": 2.2,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692779",
+            "time": "2025-04-19 14:45:00",
+            "team1": "Голден Лайонс",
+            "team2": "Бенеттон",
+            "odds": {
+              "1": 1.37,
+              "X": 28.0,
+              "2": 3.2,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.95,
+                "param": "+6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692780",
+                "parentId": "54692779",
+                "name": "1-й тайм",
+                "time": "2025-04-19 14:45:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.57,
+                  "X": 16.0,
+                  "2": 2.65,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692782",
+            "time": "2025-04-19 17:00:00",
+            "team1": "Стормерс",
+            "team2": "Коннахт",
+            "odds": {
+              "1": 1.04,
+              "X": 50.0,
+              "2": 9.5,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "-18.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+18.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692783",
+                "parentId": "54692782",
+                "name": "1-й тайм",
+                "time": "2025-04-19 17:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.2,
+                  "X": 21.0,
+                  "2": 4.9,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-8.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+8.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692788",
+            "time": "2025-04-19 19:15:00",
+            "team1": "Манстер",
+            "team2": "Блю Буллс",
+            "odds": {
+              "1": 1.52,
+              "X": 26.0,
+              "2": 2.6,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-4.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+4.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692789",
+                "parentId": "54692788",
+                "name": "1-й тайм",
+                "time": "2025-04-19 19:15:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.7,
+                  "X": 15.0,
+                  "2": 2.35,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692791",
+            "time": "2025-04-19 19:30:00",
+            "team1": "Драгонс",
+            "team2": "Скарлетс",
+            "odds": {
+              "1": 2.9,
+              "X": 27.0,
+              "2": 1.43,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "+5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "-5.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692792",
+                "parentId": "54692791",
+                "name": "1-й тайм",
+                "time": "2025-04-19 19:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.5,
+                  "X": 15.0,
+                  "2": 1.63,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "-2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692795",
+            "time": "2025-04-19 21:35:00",
+            "team1": "Зебре",
+            "team2": "Глазго Уорриорз",
+            "odds": {
+              "1": 4.6,
+              "X": 30.0,
+              "2": 1.2,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+11.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-11.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692796",
+                "parentId": "54692795",
+                "name": "1-й тайм",
+                "time": "2025-04-19 21:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 3.3,
+                  "X": 17.0,
+                  "2": 1.4,
+                  "HANDICAP 1": {
+                    "value": 1.85,
+                    "param": "+5.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "-5.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54692798",
+            "time": "2025-04-19 21:35:00",
+            "team1": "Лейнстер",
+            "team2": "Ольстер",
+            "odds": {
+              "1": 1.04,
+              "X": 50.0,
+              "2": 10.0,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-18.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+18.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54692799",
+                "parentId": "54692798",
+                "name": "1-й тайм",
+                "time": "2025-04-19 21:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.2,
+                  "X": 21.0,
+                  "2": 5.0,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-8.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+8.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "74960",
+        "championshipName": "Регби-Союз. Супер Регби Пасифик",
+        "matches": [
+          {
+            "eventId": "54683944",
+            "time": "2025-04-18 10:05:00",
+            "team1": "Крузейдерс",
+            "team2": "Блюз",
+            "odds": {
+              "1": 1.5,
+              "X": 29.0,
+              "2": 2.65,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+5.5"
+              },
+              "TOTAL": "53.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54683945",
+                "parentId": "54683944",
+                "name": "1-й тайм",
+                "time": "2025-04-18 10:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.65,
+                  "X": 18.0,
+                  "2": 2.4,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+2.5"
+                  },
+                  "TOTAL": "25.5",
+                  "OVER": 1.8,
+                  "UNDER": 1.9
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54684399",
+            "time": "2025-04-19 05:05:00",
+            "team1": "Фиджиан Друа",
+            "team2": "Уоратас",
+            "odds": {
+              "1": 1.6,
+              "X": 25.0,
+              "2": 2.4,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "-4.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+4.5"
+              },
+              "TOTAL": "56.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54684400",
+                "parentId": "54684399",
+                "name": "1-й тайм",
+                "time": "2025-04-19 05:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.73,
+                  "X": 17.0,
+                  "2": 2.25,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+2.5"
+                  },
+                  "TOTAL": "27.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54684345",
+            "time": "2025-04-19 07:35:00",
+            "team1": "Моана Пасифика",
+            "team2": "Брамбис",
+            "odds": {
+              "1": 2.45,
+              "X": 25.0,
+              "2": 1.58,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "+4.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "-4.5"
+              },
+              "TOTAL": "63.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54684346",
+                "parentId": "54684345",
+                "name": "1-й тайм",
+                "time": "2025-04-19 07:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.25,
+                  "X": 22.0,
+                  "2": 1.68,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "+2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-2.5"
+                  },
+                  "TOTAL": "30.5",
+                  "OVER": 1.83,
+                  "UNDER": 1.87
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54684225",
+            "time": "2025-04-19 10:05:00",
+            "team1": "Чифс",
+            "team2": "Хайлендерс",
+            "odds": {
+              "1": 1.14,
+              "X": 40.0,
+              "2": 5.5,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-14.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+14.5"
+              },
+              "TOTAL": "56.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54684226",
+                "parentId": "54684225",
+                "name": "1-й тайм",
+                "time": "2025-04-19 10:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.33,
+                  "X": 23.0,
+                  "2": 3.55,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+6.5"
+                  },
+                  "TOTAL": "27.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54684391",
+            "time": "2025-04-19 12:35:00",
+            "team1": "Вестерн Форс",
+            "team2": "Харрикейнс",
+            "odds": {
+              "1": 2.17,
+              "X": 23.0,
+              "2": 1.73,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+2.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-2.5"
+              },
+              "TOTAL": "60.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54684392",
+                "parentId": "54684391",
+                "name": "1-й тайм",
+                "time": "2025-04-19 12:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.1,
+                  "X": 18.0,
+                  "2": 1.8,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "+1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-1.5"
+                  },
+                  "TOTAL": "29.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "58311",
+        "championshipName": "Регби-Союз. Франция. Про Д2",
+        "matches": [
+          {
+            "eventId": "54678049",
+            "time": "2025-04-17 22:00:00",
+            "team1": "Коломье",
+            "team2": "Ажен",
+            "odds": {
+              "1": 1.11,
+              "X": 40.0,
+              "2": 6.5,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-13.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+13.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54678050",
+                "parentId": "54678049",
+                "name": "1-й тайм",
+                "time": "2025-04-17 22:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.3,
+                  "X": 18.0,
+                  "2": 3.75,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+6.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663835",
+            "time": "2025-04-18 20:00:00",
+            "team1": "ЮСОН Невер",
+            "team2": "Биарриц Олимпик",
+            "odds": {
+              "1": 1.3,
+              "X": 29.0,
+              "2": 3.6,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-7.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+7.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663836",
+                "parentId": "54663835",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.53,
+                  "X": 16.0,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663668",
+            "time": "2025-04-18 20:30:00",
+            "team1": "Сойя Ангулем",
+            "team2": "ЮС Монтальбэнэс",
+            "odds": {
+              "1": 1.35,
+              "X": 28.0,
+              "2": 3.3,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663669",
+                "parentId": "54663668",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.57,
+                  "X": 16.0,
+                  "2": 2.65,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663670",
+            "time": "2025-04-18 20:30:00",
+            "team1": "АС Безье",
+            "team2": "Стад Монтуа",
+            "odds": {
+              "1": 1.3,
+              "X": 29.0,
+              "2": 3.6,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-7.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+7.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663671",
+                "parentId": "54663670",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.53,
+                  "X": 16.0,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663833",
+            "time": "2025-04-18 20:30:00",
+            "team1": "ФК Гренобль",
+            "team2": "Стад Ницца",
+            "odds": {
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-28.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+28.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663834",
+                "parentId": "54663833",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-13.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+13.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663837",
+            "time": "2025-04-18 20:30:00",
+            "team1": "Дакс",
+            "team2": "Стад Орильясуа",
+            "odds": {
+              "1": 1.3,
+              "X": 29.0,
+              "2": 3.6,
+              "HANDICAP 1": {
+                "value": 1.83,
+                "param": "-7.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+7.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663838",
+                "parentId": "54663837",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.53,
+                  "X": 16.0,
+                  "2": 2.75,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54663839",
+            "time": "2025-04-18 20:30:00",
+            "team1": "Ойоннакс",
+            "team2": "Валенс Романс Дром",
+            "odds": {
+              "1": 1.22,
+              "X": 30.0,
+              "2": 4.4,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-9.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+9.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54663840",
+                "parentId": "54663839",
+                "name": "1-й тайм",
+                "time": "2025-04-18 20:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.45,
+                  "X": 16.0,
+                  "2": 3.05,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+4.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54669393",
+            "time": "2025-04-18 22:00:00",
+            "team1": "Брив",
+            "team2": "Прованс",
+            "odds": {
+              "1": 1.4,
+              "X": 27.0,
+              "2": 3.0,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+5.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54669394",
+                "parentId": "54669393",
+                "name": "1-й тайм",
+                "time": "2025-04-18 22:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.62,
+                  "X": 15.0,
+                  "2": 2.5,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "114019",
+        "championshipName": "Регби-Союз. Уэльс. Супер Регби Симру",
+        "matches": [
+          {
+            "eventId": "54706440",
+            "time": "2025-04-16 21:30:00",
+            "team1": "Аберавон",
+            "team2": "Эббв Вейл",
+            "odds": {
+              "1": 3.1,
+              "X": 27.0,
+              "2": 1.35,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.8,
+                "param": "-6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54706441",
+                "parentId": "54706440",
+                "name": "1-й тайм",
+                "time": "2025-04-16 21:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.6,
+                  "X": 15.0,
+                  "2": 1.55,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "15555",
+        "championshipName": "Регбилиг. Австралия. НРЛ",
+        "matches": [
+          {
+            "eventId": "54526155",
+            "time": "2025-04-17 12:50:00",
+            "team1": "Мэнли Си Иглз",
+            "team2": "Ст. Джордж Иллаварра Драгонс",
+            "odds": {
+              "1": 1.6,
+              "X": 23.0,
+              "2": 2.4,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "-3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "+3.5"
+              },
+              "TOTAL": "47.5",
+              "OVER": 1.87,
+              "UNDER": 1.93
+            },
+            "events": [
+              {
+                "eventId": "54526156",
+                "parentId": "54526155",
+                "name": "1-й тайм",
+                "time": "2025-04-17 12:50:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.75,
+                  "X": 14.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+1.5"
+                  },
+                  "TOTAL": "23.5",
+                  "OVER": 1.83,
+                  "UNDER": 1.87
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526157",
+            "time": "2025-04-18 09:05:00",
+            "team1": "Кантербери Бульдогс",
+            "team2": "Саут Сидней Рэббитос",
+            "odds": {
+              "1": 1.3,
+              "X": 28.0,
+              "2": 3.65,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "-10.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+10.5"
+              },
+              "TOTAL": "44.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526158",
+                "parentId": "54526157",
+                "name": "1-й тайм",
+                "time": "2025-04-18 09:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.42,
+                  "X": 16.0,
+                  "2": 3.15,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+4.5"
+                  },
+                  "TOTAL": "21.5",
+                  "OVER": 1.77,
+                  "UNDER": 1.93
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526143",
+            "time": "2025-04-18 13:00:00",
+            "team1": "Редклифф Долфинс",
+            "team2": "Мельбурн Сторм",
+            "odds": {
+              "1": 4.7,
+              "X": 40.0,
+              "2": 1.19,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "+13.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "-13.5"
+              },
+              "TOTAL": "49.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526144",
+                "parentId": "54526143",
+                "name": "1-й тайм",
+                "time": "2025-04-18 13:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 3.65,
+                  "X": 19.0,
+                  "2": 1.33,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "+6.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-6.5"
+                  },
+                  "TOTAL": "24.5",
+                  "OVER": 1.9,
+                  "UNDER": 1.8
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526153",
+            "time": "2025-04-19 10:30:00",
+            "team1": "Нью Зиланд Уорриорз",
+            "team2": "Брисбен Бронкос",
+            "odds": {
+              "1": 3.15,
+              "X": 27.0,
+              "2": 1.38,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+8.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-8.5"
+              },
+              "TOTAL": "46.5",
+              "OVER": 1.87,
+              "UNDER": 1.93
+            },
+            "events": [
+              {
+                "eventId": "54526154",
+                "parentId": "54526153",
+                "name": "1-й тайм",
+                "time": "2025-04-19 10:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.85,
+                  "X": 16.0,
+                  "2": 1.5,
+                  "HANDICAP 1": {
+                    "value": 1.77,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.93,
+                    "param": "-4.5"
+                  },
+                  "TOTAL": "23.5",
+                  "OVER": 1.87,
+                  "UNDER": 1.83
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526151",
+            "time": "2025-04-19 12:35:00",
+            "team1": "Сидней Рустерс",
+            "team2": "Пенрит Пантерс",
+            "odds": {
+              "1": 2.45,
+              "X": 23.0,
+              "2": 1.6,
+              "HANDICAP 1": {
+                "value": 1.95,
+                "param": "+3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "-3.5"
+              },
+              "TOTAL": "46.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526152",
+                "parentId": "54526151",
+                "name": "1-й тайм",
+                "time": "2025-04-19 12:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.35,
+                  "X": 13.0,
+                  "2": 1.73,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "+1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.77,
+                    "param": "-1.5"
+                  },
+                  "TOTAL": "22.5",
+                  "OVER": 1.83,
+                  "UNDER": 1.87
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526145",
+            "time": "2025-04-20 07:00:00",
+            "team1": "Голд-Кост Титанс",
+            "team2": "Канберра Райдерс",
+            "odds": {
+              "1": 2.1,
+              "X": 24.0,
+              "2": 1.78,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-1.5"
+              },
+              "TOTAL": "51.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526146",
+                "parentId": "54526145",
+                "name": "1-й тайм",
+                "time": "2025-04-20 07:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.1,
+                  "X": 14.0,
+                  "2": 1.87,
+                  "HANDICAP 1": {
+                    "value": 1.77,
+                    "param": "+1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.93,
+                    "param": "-1.5"
+                  },
+                  "TOTAL": "25.5",
+                  "OVER": 1.85,
+                  "UNDER": 1.85
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526149",
+            "time": "2025-04-20 09:05:00",
+            "team1": "Ньюкасл Найтс",
+            "team2": "Кронулла Шаркс",
+            "odds": {
+              "1": 3.45,
+              "X": 27.0,
+              "2": 1.33,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "+9.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "-9.5"
+              },
+              "TOTAL": "43.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526150",
+                "parentId": "54526149",
+                "name": "1-й тайм",
+                "time": "2025-04-20 09:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 3.05,
+                  "X": 15.0,
+                  "2": 1.45,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "+4.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-4.5"
+                  },
+                  "TOTAL": "21.5",
+                  "OVER": 1.85,
+                  "UNDER": 1.85
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54526147",
+            "time": "2025-04-21 09:00:00",
+            "team1": "Вест Тайгерс",
+            "team2": "Парраматта Илс",
+            "odds": {
+              "1": 1.78,
+              "X": 22.0,
+              "2": 2.1,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+1.5"
+              },
+              "TOTAL": "47.5",
+              "OVER": 1.9,
+              "UNDER": 1.9
+            },
+            "events": [
+              {
+                "eventId": "54526148",
+                "parentId": "54526147",
+                "name": "1-й тайм",
+                "time": "2025-04-21 09:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.88,
+                  "X": 13.0,
+                  "2": 2.1,
+                  "HANDICAP 1": {
+                    "value": 1.93,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.77,
+                    "param": "+1.5"
+                  },
+                  "TOTAL": "23.5",
+                  "OVER": 1.85,
+                  "UNDER": 1.85
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713270",
+            "time": "2025-04-24 12:50:00",
+            "team1": "Брисбен Бронкос",
+            "team2": "Кантербери Бульдогс",
+            "odds": {
+              "1": 1.8,
+              "X": 22.0,
+              "2": 2.1,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+1.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713271",
+                "parentId": "54713270",
+                "name": "1-й тайм",
+                "time": "2025-04-24 12:50:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.9,
+                  "X": 13.0,
+                  "2": 2.1,
+                  "HANDICAP 1": {
+                    "value": 1.94,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.76,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713272",
+            "time": "2025-04-25 09:00:00",
+            "team1": "Сидней Рустерс",
+            "team2": "Ст. Джордж Иллаварра Драгонс",
+            "odds": {
+              "1": 1.62,
+              "X": 22.0,
+              "2": 2.4,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-3.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+3.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713273",
+                "parentId": "54713272",
+                "name": "1-й тайм",
+                "time": "2025-04-25 09:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.75,
+                  "X": 13.0,
+                  "2": 2.3,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713268",
+            "time": "2025-04-25 11:05:00",
+            "team1": "Нью Зиланд Уорриорз",
+            "team2": "Ньюкасл Найтс",
+            "odds": {
+              "1": 1.45,
+              "X": 25.0,
+              "2": 2.9,
+              "HANDICAP 1": {
+                "value": 1.8,
+                "param": "-6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713269",
+                "parentId": "54713268",
+                "name": "1-й тайм",
+                "time": "2025-04-25 11:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.55,
+                  "X": 15.0,
+                  "2": 2.65,
+                  "HANDICAP 1": {
+                    "value": 1.85,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.85,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713266",
+            "time": "2025-04-25 13:10:00",
+            "team1": "Мельбурн Сторм",
+            "team2": "Саут Сидней Рэббитос",
+            "odds": {
+              "1": 1.12,
+              "X": 40.0,
+              "2": 6.1,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-15.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+15.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713267",
+                "parentId": "54713266",
+                "name": "1-й тайм",
+                "time": "2025-04-25 13:10:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.25,
+                  "X": 18.0,
+                  "2": 4.3,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-7.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+7.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713260",
+            "time": "2025-04-26 10:30:00",
+            "team1": "Норт Квинсленд Ковбойз",
+            "team2": "Голд-Кост Титанс",
+            "odds": {
+              "1": 1.5,
+              "X": 25.0,
+              "2": 2.7,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.8,
+                "param": "+6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713261",
+                "parentId": "54713260",
+                "name": "1-й тайм",
+                "time": "2025-04-26 10:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.6,
+                  "X": 15.0,
+                  "2": 2.55,
+                  "HANDICAP 1": {
+                    "value": 1.8,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.9,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713264",
+            "time": "2025-04-26 12:35:00",
+            "team1": "Пенрит Пантерс",
+            "team2": "Мэнли Си Иглз",
+            "odds": {
+              "1": 1.55,
+              "X": 24.0,
+              "2": 2.55,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.8,
+                "param": "+5.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713265",
+                "parentId": "54713264",
+                "name": "1-й тайм",
+                "time": "2025-04-26 12:35:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.65,
+                  "X": 15.0,
+                  "2": 2.45,
+                  "HANDICAP 1": {
+                    "value": 1.9,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.8,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713258",
+            "time": "2025-04-27 07:00:00",
+            "team1": "Канберра Райдерс",
+            "team2": "Редклифф Долфинс",
+            "odds": {
+              "1": 1.5,
+              "X": 24.0,
+              "2": 2.65,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "-5.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "+5.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713259",
+                "parentId": "54713258",
+                "name": "1-й тайм",
+                "time": "2025-04-27 07:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.65,
+                  "X": 15.0,
+                  "2": 2.45,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-2.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "+2.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54713262",
+            "time": "2025-04-27 09:05:00",
+            "team1": "Вест Тайгерс",
+            "team2": "Кронулла Шаркс",
+            "odds": {
+              "1": 3.0,
+              "X": 25.0,
+              "2": 1.4,
+              "HANDICAP 1": {
+                "value": 1.85,
+                "param": "+6.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.85,
+                "param": "-6.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54713263",
+                "parentId": "54713262",
+                "name": "1-й тайм",
+                "time": "2025-04-27 09:05:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 2.6,
+                  "X": 15.0,
+                  "2": 1.58,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "championshipId": "61409",
+        "championshipName": "Регбилиг. Англия. Суперлига",
+        "matches": [
+          {
+            "eventId": "54690226",
+            "time": "2025-04-17 22:00:00",
+            "team1": "Уэйкфилд Тринити",
+            "team2": "Каслфорд Тайгерс",
+            "odds": {
+              "1": 1.19,
+              "X": 30.0,
+              "2": 4.8,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "-13.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "+13.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690227",
+                "parentId": "54690226",
+                "name": "1-й тайм",
+                "time": "2025-04-17 22:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.35,
+                  "X": 16.0,
+                  "2": 3.65,
+                  "HANDICAP 1": {
+                    "value": 1.76,
+                    "param": "-5.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.94,
+                    "param": "+5.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54690324",
+            "time": "2025-04-18 14:30:00",
+            "team1": "Халл ФК",
+            "team2": "Халл КР",
+            "odds": {
+              "1": 3.5,
+              "X": 24.0,
+              "2": 1.33,
+              "HANDICAP 1": {
+                "value": 1.93,
+                "param": "+8.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.87,
+                "param": "-8.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690325",
+                "parentId": "54690324",
+                "name": "1-й тайм",
+                "time": "2025-04-18 14:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 3.05,
+                  "X": 12.5,
+                  "2": 1.5,
+                  "HANDICAP 1": {
+                    "value": 1.95,
+                    "param": "+3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.75,
+                    "param": "-3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54690289",
+            "time": "2025-04-18 17:00:00",
+            "team1": "Уиган Уорриорс",
+            "team2": "Сент-Хеленс",
+            "odds": {
+              "1": 1.33,
+              "X": 23.0,
+              "2": 3.5,
+              "HANDICAP 1": {
+                "value": 1.87,
+                "param": "-7.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.93,
+                "param": "+7.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690290",
+                "parentId": "54690289",
+                "name": "1-й тайм",
+                "time": "2025-04-18 17:00:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.55,
+                  "X": 12.0,
+                  "2": 2.9,
+                  "HANDICAP 1": {
+                    "value": 1.83,
+                    "param": "-3.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.87,
+                    "param": "+3.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54690322",
+            "time": "2025-04-18 19:30:00",
+            "team1": "Лидс Райнос",
+            "team2": "Хаддерсфилд Джайнтс",
+            "odds": {
+              "1": 1.01,
+              "X": 50.0,
+              "2": 16.0,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-23.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+23.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690323",
+                "parentId": "54690322",
+                "name": "1-й тайм",
+                "time": "2025-04-18 19:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.1,
+                  "X": 22.0,
+                  "2": 7.9,
+                  "HANDICAP 1": {
+                    "value": 1.87,
+                    "param": "-10.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.83,
+                    "param": "+10.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          },
+          {
+            "eventId": "54690316",
+            "time": "2025-04-19 15:30:00",
+            "team1": "Ли Леопардс",
+            "team2": "Уоррингтон Вулвз",
+            "odds": {
+              "1": 1.8,
+              "X": 22.0,
+              "2": 2.1,
+              "HANDICAP 1": {
+                "value": 1.9,
+                "param": "-1.5"
+              },
+              "HANDICAP 2": {
+                "value": 1.9,
+                "param": "+1.5"
+              }
+            },
+            "events": [
+              {
+                "eventId": "54690317",
+                "parentId": "54690316",
+                "name": "1-й тайм",
+                "time": "2025-04-19 15:30:00",
+                "description": "",
+                "kind": 100201,
+                "odds": {
+                  "1": 1.9,
+                  "X": 12.5,
+                  "2": 2.1,
+                  "HANDICAP 1": {
+                    "value": 1.95,
+                    "param": "-1.5"
+                  },
+                  "HANDICAP 2": {
+                    "value": 1.75,
+                    "param": "+1.5"
+                  }
+                },
+                "subEvents": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
