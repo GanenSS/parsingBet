@@ -1,11 +1,10 @@
-﻿#include "passDB.h"
+﻿#include "passBD/passdb.h"
 
 passDB::passDB(QObject *parent) : QObject(parent), parserProcess(nullptr)
 {
     log("Initializing passDB object");
     createConnection();
 
-    // Set the parser and data directories
     parserDirectory = "C:/Users/ezhak/Documents/parsingBet";
     dataDirectory = "C:/Users/ezhak/Documents/parsingBet/data";
 }
@@ -66,23 +65,19 @@ bool passDB::startPythonParser()
 {
     log("Starting Python parser");
 
-    // Check if process is already running
     if (parserProcess && parserProcess->state() == QProcess::Running) {
         log("Parser is already running", "WARNING");
         return false;
     }
 
-    // Create new process if needed
     if (!parserProcess) {
         parserProcess = new QProcess(this);
         connect(parserProcess, QOverload<int, QProcess::ExitStatus>::of(&QProcess::finished),
                 this, &passDB::handleParserFinished);
     }
 
-    // Set working directory
     parserProcess->setWorkingDirectory(parserDirectory);
 
-    // Start the Python script
     log(QString("Running parser from directory: %1").arg(parserDirectory));
     parserProcess->start("python", QStringList() << "parsak.py");
 
@@ -107,11 +102,9 @@ void passDB::handleParserFinished(int exitCode, QProcess::ExitStatus exitStatus)
         log("Parser process finished successfully");
     }
 
-    // Import the data after parser has finished
     log("Starting to import JSON data after parser completion");
     importAllJsonFiles(dataDirectory);
 
-    // Start parser again to create a cycle
     QTimer::singleShot(500, this, &passDB::startPythonParser);
 }
 
@@ -125,15 +118,12 @@ void passDB::clearAllTables()
 {
     log("Clearing all database tables before import");
 
-    // Начинаем транзакцию для отключения ограничений
     query.exec("BEGIN");
 
-    // Временно отключаем ограничения внешних ключей
     query.exec("ALTER TABLE matches DISABLE TRIGGER ALL");
     query.exec("ALTER TABLE championships DISABLE TRIGGER ALL");
     query.exec("ALTER TABLE sports DISABLE TRIGGER ALL");
 
-    // Очищаем таблицы в обратном порядке
     query.exec("DELETE FROM matches");
     log("Matches table cleared");
 
@@ -143,12 +133,10 @@ void passDB::clearAllTables()
     query.exec("DELETE FROM sports");
     log("Sports table cleared");
 
-    // Включаем обратно ограничения
     query.exec("ALTER TABLE matches ENABLE TRIGGER ALL");
     query.exec("ALTER TABLE championships ENABLE TRIGGER ALL");
     query.exec("ALTER TABLE sports ENABLE TRIGGER ALL");
 
-    // Завершаем транзакцию
     query.exec("COMMIT");
 
     log("All tables cleared successfully");
@@ -195,7 +183,6 @@ void passDB::addMatch(const Match &match)
     log(QString("Adding match: ID=%1, Teams=%2 vs %3, ChampionshipID=%4").arg(
         QString::number(match.id), match.team1, match.team2, QString::number(match.championshipId)));
 
-    // Обратите внимание, что мы используем тип TEXT для match_time, а не TIMESTAMP
     query.prepare("INSERT INTO matches (match_id, team1, team2, match_time, championship_id, "
                   "coefficient_first, coefficient_draw, coefficient_second, "
                   "coefficient_first_fora, coefficient_second_fora, "
@@ -246,7 +233,6 @@ void passDB::importJsonFile(const QString &filePath)
 
     QJsonObject rootObject = jsonDoc.object();
 
-    // Extract sport information
     int sportId = rootObject["sport_id"].toInt();
     QString sportName = rootObject["sport_name"].toString();
     QString sportUrl = rootObject["url"].toString();
@@ -256,7 +242,6 @@ void passDB::importJsonFile(const QString &filePath)
     Sport sport = { sportId, sportName, sportUrl };
     addSport(sport);
 
-    // Process championships
     if (rootObject.contains("championships") && rootObject["championships"].isArray()) {
         QJsonArray championshipsArray = rootObject["championships"].toArray();
         log(QString("Found %1 championships for sport ID=%2").arg(
@@ -291,7 +276,6 @@ void passDB::importJsonFile(const QString &filePath)
                             log(QString("Processing match: ID=%1, %2 vs %3").arg(
                                 QString::number(matchId), team1, team2));
 
-                            // Extract odds from the odds object
                             QJsonObject oddsObject = matchObject["odds"].toObject();
 
                             QString coef1 = "-";
@@ -303,7 +287,6 @@ void passDB::importJsonFile(const QString &filePath)
                             QString coefOver = "-";
                             QString coefUnder = "-";
 
-                            // Convert odds values to strings, handling various formats
                             if (oddsObject.contains("1") && !oddsObject["1"].isNull()) {
                                 if (oddsObject["1"].isDouble())
                                     coef1 = QString::number(oddsObject["1"].toDouble());
@@ -325,7 +308,6 @@ void passDB::importJsonFile(const QString &filePath)
                                     coef2 = oddsObject["2"].toString();
                             }
 
-                            // Handle handicap/fora data
                             if (oddsObject.contains("HANDICAP 1") && oddsObject["HANDICAP 1"].isObject()) {
                                 QJsonObject fora1 = oddsObject["HANDICAP 1"].toObject();
                                 QString value = fora1["value"].toString();
@@ -362,7 +344,6 @@ void passDB::importJsonFile(const QString &filePath)
                                 coefFora2 = value + " (" + param + ")";
                             }
 
-                            // Handle total
                             if (oddsObject.contains("TOTAL"))
                                 coefTotal = oddsObject["TOTAL"].toString();
 
@@ -427,7 +408,6 @@ void passDB::importAllJsonFiles(const QString &directoryPath)
         return;
     }
 
-    // Clear all tables before importing new data
     clearAllTables();
 
     QStringList jsonFiles = directory.entryList(QStringList() << "*.json", QDir::Files);

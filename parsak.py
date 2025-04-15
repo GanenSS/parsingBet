@@ -1,4 +1,4 @@
-﻿import os
+﻿﻿import os
 import time
 import random
 import traceback
@@ -20,7 +20,6 @@ logging.basicConfig(
     handlers=[logging.FileHandler("scraper.log"), logging.StreamHandler()])
 logger = logging.getLogger("FonbetScraper")
 
-# Изменим словарь на английские названия
 SPORT_IDS = {
     "Football": 1, "Hockey": 2, "Tennis": 3, "Basketball": 4, "Volleyball": 5, "Table Tennis": 6,
     "Esports": 7, "MMA": 8, "Boxing": 9, "Handball": 10, "Squash": 11, "Water Polo": 12,
@@ -30,7 +29,7 @@ SPORT_IDS = {
     "Billiard": 29, "Softball": 30, "Curling": 31, "Darts": 33, "Cycling": 34, "Chess": 35
 }
 
-# Словарь для сопоставления URL-частей с английскими названиями спорта
+# Словарь для сопоставления URL-частей с названиями спорта
 SPORT_URL_TO_NAME = {
     "football": "Football",
     "hockey": "Hockey",
@@ -68,7 +67,7 @@ SPORT_URL_TO_NAME = {
     "chess": "Chess"
 }
 
-# Словарь для перевода русских названий на английский (для полей данных)
+# Словарь для перевода русских названий на английский
 RU_TO_EN_FIELDS = {
     "ФОРА 1": "HANDICAP 1",
     "ФОРА 2": "HANDICAP 2",
@@ -80,7 +79,7 @@ RU_TO_EN_FIELDS = {
 class FonbetScraper:
     def __init__(self):
         self.base_url = "https://fon.bet/sports/"
-        # Обновленные ссылки на виды спорта
+        # ссылки на виды спорта
         self.sports = [
             "football", "hockey", "tennis", "basketball", "volleyball",
             "table-tennis", "esports", "mix-fights", "boxing", "handball",
@@ -90,8 +89,8 @@ class FonbetScraper:
             "billiard", "softball", "darts"
         ]
         # Глобальные счетчики для уникальных ID
-        self.global_championship_id = 10000  # Начинаем с большого числа для наглядности
-        self.global_match_id = 100000  # Начинаем с большого числа для наглядности
+        self.global_championship_id = 10000
+        self.global_match_id = 100000
         self.driver = None
         self.setup_driver()
 
@@ -847,7 +846,6 @@ class FonbetScraper:
             logger.error(traceback.format_exc())
 
     def run(self):
-        """Main method to run the scraper on all sports"""
         start_time = time.time()
         successful_sports = []
         failed_sports = []

@@ -27,31 +27,31 @@ public:
     bool createConnection();
 
     struct Sport {
-        int id;      // ID as int
-        QString name; // Sport name
-        QString url;  // Sport URL
+        int id;
+        QString name;
+        QString url;
     };
 
     struct Championship {
-        int id;          // Championship ID as int
-        QString name;    // Championship name
-        int sportId;     // Sport ID as int
+        int id;
+        QString name;
+        int sportId;
     };
 
     struct Match {
-        int id;                       // Match ID as int
-        QString team1;                // Team 1
-        QString team2;                // Team 2
-        QString time;                 // Match time
-        int championshipId;           // Championship ID as int
-        QString coefficient_first;     // Coefficient for first team win
-        QString coefficient_draw;      // Coefficient for draw
-        QString coefficient_second;    // Coefficient for second team win
-        QString coefficient_first_fora; // Handicap coefficient for first team
-        QString coefficient_second_fora; // Handicap coefficient for second team
-        QString coefficient_total;     // Total coefficient
-        QString coefficient_over;      // Over total coefficient
-        QString coefficient_under;     // Under total coefficient
+        int id;
+        QString team1;
+        QString team2;
+        QString time;
+        int championshipId;
+        QString coefficient_first;
+        QString coefficient_draw;
+        QString coefficient_second;
+        QString coefficient_first_fora;
+        QString coefficient_second_fora;
+        QString coefficient_total;
+        QString coefficient_over;
+        QString coefficient_under;
     };
 
     void addSport(const Sport &sport);
@@ -59,9 +59,8 @@ public:
     void addMatch(const Match &match);
     void importJsonFile(const QString &filePath);
     void importAllJsonFiles(const QString &directoryPath);
-    void clearAllTables(); // Added new method to clear tables
+    void clearAllTables();
 
-    // New functions for parser integration
     bool startPythonParser();
     void startParsingCycle();
 
