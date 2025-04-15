@@ -1,0 +1,4191 @@
+{
+  "sport_id": 4,
+  "sport_name": "Basketball",
+  "sport_url": "basketball",
+  "url": "https://fon.bet/sports/basketball",
+  "championships": [
+    {
+      "championship_id": 11019,
+      "championship_name": "НБА. ПЛЕЙ-ИН",
+      "matches": [
+        {
+          "match_id": 102073,
+          "team1": "Орландо Мэджик",
+          "team2": "Атланта Хокс",
+          "time": "Завтра в 02:30",
+          "total": "216.5",
+          "odds": {
+            "1": 1.44,
+            "X": "-",
+            "2": 2.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "TOTAL": "216.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102074,
+          "team1": "Голден Стэйт Уорриорз",
+          "team2": "Мемфис Гриззлис",
+          "time": "Завтра в 05:00",
+          "total": "228.5",
+          "odds": {
+            "1": 1.32,
+            "X": "-",
+            "2": 3.4,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+7.5"
+            },
+            "TOTAL": "228.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102075,
+          "team1": "Хозяева",
+          "team2": "Гости",
+          "time": "Unknown",
+          "total": "448.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-12.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.87,
+              "param": "+12.5"
+            },
+            "TOTAL": "448.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        },
+        {
+          "match_id": 102076,
+          "team1": "Чикаго Буллз",
+          "team2": "Майами Хит",
+          "time": "17 апреля в 02:30",
+          "total": "219.5",
+          "odds": {
+            "1": 1.85,
+            "X": "-",
+            "2": 1.95,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "TOTAL": "219.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102077,
+          "team1": "Сакраменто Кингз",
+          "team2": "Даллас Маверикс",
+          "time": "17 апреля в 05:00",
+          "total": "216.5",
+          "odds": {
+            "1": 1.53,
+            "X": "-",
+            "2": 2.5,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "TOTAL": "216.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11021,
+      "championship_name": "НБА. ПЛЕЙ-ОФФ. 1/8 ФИНАЛА. ДО 4-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102078,
+          "team1": "Нью-Йорк Никс",
+          "team2": "Детройт Пистонс",
+          "time": "20 апреля в 02:00",
+          "total": "220.5",
+          "odds": {
+            "1": 1.32,
+            "X": "-",
+            "2": 3.4,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+7.5"
+            },
+            "TOTAL": "220.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102079,
+          "team1": "Индиана Пэйсерс",
+          "team2": "Милуоки Бакс",
+          "time": "20 апреля в 02:00",
+          "total": "225.5",
+          "odds": {
+            "1": 1.53,
+            "X": "-",
+            "2": 2.5,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "TOTAL": "225.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102080,
+          "team1": "Лос-Анджелес Лейкерс",
+          "team2": "Миннесота Тимбервулвз",
+          "time": "20 апреля в 02:00",
+          "total": "216.5",
+          "odds": {
+            "1": 1.53,
+            "X": "-",
+            "2": 2.5,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "TOTAL": "216.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102081,
+          "team1": "Денвер Наггетс",
+          "team2": "Лос-Анджелес Клипперс",
+          "time": "20 апреля в 02:00",
+          "total": "224.5",
+          "odds": {
+            "1": 1.72,
+            "X": "-",
+            "2": 2.12,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+2.5"
+            },
+            "TOTAL": "224.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11023,
+      "championship_name": "НБА. ПЛЕЙ-ОФФ. 1/8 ФИНАЛА. ДО 4-Х ПОБЕД. ИТОГИ СЕРИИ (ФОРА, ТОТАЛ КОЛ-ВА ИГР)",
+      "matches": [
+        {
+          "match_id": 102082,
+          "team1": "итоги серии. Денвер Наггетс",
+          "team2": "Лос-Анджелес Клипперс",
+          "time": "20 апреля в 02:00",
+          "total": "5.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 2.55,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.45,
+              "param": "+1.5"
+            },
+            "TOTAL": "5.5",
+            "OVER": 1.5,
+            "UNDER": 2.4
+          },
+          "events": []
+        },
+        {
+          "match_id": 102083,
+          "team1": "итоги серии. Индиана Пэйсерс",
+          "team2": "Милуоки Бакс",
+          "time": "20 апреля в 02:00",
+          "total": "5.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 2.07,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.67,
+              "param": "+1.5"
+            },
+            "TOTAL": "5.5",
+            "OVER": 1.52,
+            "UNDER": 2.35
+          },
+          "events": []
+        },
+        {
+          "match_id": 102084,
+          "team1": "итоги серии. Нью-Йорк Никс",
+          "team2": "Детройт Пистонс",
+          "time": "20 апреля в 02:00",
+          "total": "5.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.62,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.15,
+              "param": "+1.5"
+            },
+            "TOTAL": "5.5",
+            "OVER": 1.72,
+            "UNDER": 2.0
+          },
+          "events": []
+        },
+        {
+          "match_id": 102085,
+          "team1": "итоги серии. Лос-Анджелес Лейкерс",
+          "team2": "Миннесота Тимбервулвз",
+          "time": "20 апреля в 02:00",
+          "total": "5.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 2.1,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.65,
+              "param": "+1.5"
+            },
+            "TOTAL": "5.5",
+            "OVER": 1.55,
+            "UNDER": 2.3
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11025,
+      "championship_name": "ЛИГА ВТБ. ПЛЕЙ-ИН",
+      "matches": [
+        {
+          "match_id": 102086,
+          "team1": "Пари Нижний Новгород",
+          "team2": "Парма",
+          "time": "Завтра в 19:00",
+          "total": "163.5",
+          "odds": {
+            "1": 1.6,
+            "X": "-",
+            "2": 2.35,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+3.5"
+            },
+            "TOTAL": "163.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102087,
+          "team1": "МБА-МАИ",
+          "team2": "Енисей",
+          "time": "Завтра в 19:30",
+          "total": "156.5",
+          "odds": {
+            "1": 1.29,
+            "X": "-",
+            "2": 3.6,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+8.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102093,
+          "team1": "Хозяева",
+          "team2": "Гости",
+          "time": "Unknown",
+          "total": "321.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-11.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.83,
+              "param": "+11.5"
+            },
+            "TOTAL": "321.5",
+            "OVER": 1.83,
+            "UNDER": 1.87
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11027,
+      "championship_name": "ЛИГА ВТБ. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102088,
+          "team1": "Локомотив-Кубань",
+          "team2": "Уралмаш",
+          "time": "22 апреля в 20:00",
+          "total": "165.5",
+          "odds": {
+            "1": 1.25,
+            "X": "-",
+            "2": 3.95,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "165.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102089,
+          "team1": "УНИКС",
+          "team2": "Автодор",
+          "time": "23 апреля в 19:00",
+          "total": "157.5",
+          "odds": {
+            "1": 1.01,
+            "X": "-",
+            "2": 20.0,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-22.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+22.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11029,
+      "championship_name": "ЛИГА ВТБ. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД. ИТОГИ СЕРИИ (ФОРА, ТОТАЛ КОЛ-ВА ИГР)",
+      "matches": [
+        {
+          "match_id": 102090,
+          "team1": "итоги серии. Локомотив-Кубань",
+          "team2": "Уралмаш",
+          "time": "22 апреля в 20:00",
+          "total": "3.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.57,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.25,
+              "param": "+1.5"
+            },
+            "TOTAL": "3.5",
+            "OVER": 1.46,
+            "UNDER": 2.52
+          },
+          "events": []
+        },
+        {
+          "match_id": 102091,
+          "team1": "итоги серии. УНИКС",
+          "team2": "Автодор",
+          "time": "23 апреля в 19:00",
+          "total": "3.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.16,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 4.5,
+              "param": "+2.5"
+            },
+            "TOTAL": "3.5",
+            "OVER": 4.5,
+            "UNDER": 1.16
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11031,
+      "championship_name": "ЕВРОЛИГА ULEB. ПЛЕЙ-ИН",
+      "matches": [
+        {
+          "match_id": 102092,
+          "team1": "Бавария Мюнхен",
+          "team2": "Црвена Звезда",
+          "time": "Сегодня в 21:30",
+          "total": "168.5",
+          "odds": {
+            "1": 1.65,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "168.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102099,
+          "team1": "Реал Мадрид",
+          "team2": "Париж",
+          "time": "Сегодня в 22:00",
+          "total": "176.5",
+          "odds": {
+            "1": 1.32,
+            "X": "-",
+            "2": 3.4,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+7.5"
+            },
+            "TOTAL": "176.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11041,
+      "championship_name": "ЕВРОЛИГА ULEB. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102100,
+          "team1": "Панатинаикос",
+          "team2": "Анадолу Эфес",
+          "time": "22 апреля в 21:30",
+          "total": "173.5",
+          "odds": {
+            "1": 1.34,
+            "X": "-",
+            "2": 3.25,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "TOTAL": "173.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102101,
+          "team1": "Монако",
+          "team2": "Барселона",
+          "time": "23 апреля в 20:00",
+          "total": "171.5",
+          "odds": {
+            "1": 1.48,
+            "X": "-",
+            "2": 2.65,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "TOTAL": "171.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11043,
+      "championship_name": "ЕВРОЛИГА ULEB. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД. ИТОГИ СЕРИИ (ФОРА, ТОТАЛ КОЛ-ВА ИГР)",
+      "matches": [
+        {
+          "match_id": 102102,
+          "team1": "итоги серии. Панатинаикос",
+          "team2": "Анадолу Эфес",
+          "time": "22 апреля в 21:30",
+          "total": "4.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.75,
+              "param": "+1.5"
+            },
+            "TOTAL": "4.5",
+            "OVER": 2.45,
+            "UNDER": 1.48
+          },
+          "events": []
+        },
+        {
+          "match_id": 102103,
+          "team1": "итоги серии. Монако",
+          "team2": "Барселона",
+          "time": "23 апреля в 20:00",
+          "total": "4.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 2.52,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.46,
+              "param": "+1.5"
+            },
+            "TOTAL": "4.5",
+            "OVER": 2.35,
+            "UNDER": 1.52
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11045,
+      "championship_name": "ЛИГА ЧЕМПИОНОВ. 1/4 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102104,
+          "team1": "Галатасарай",
+          "team2": "Нимбурк",
+          "time": "Сегодня в 19:00",
+          "total": "172.5",
+          "odds": {
+            "1": 1.53,
+            "X": "-",
+            "2": 2.5,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "TOTAL": "172.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102105,
+          "team1": "Реджо Эмилия",
+          "team2": "Уникаха",
+          "time": "Сегодня в 21:00",
+          "total": "164.5",
+          "odds": {
+            "1": 3.95,
+            "X": "-",
+            "2": 1.25,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102106,
+          "team1": "Дертона",
+          "team2": "Тенерифе",
+          "time": "Завтра в 19:30",
+          "total": "158.5",
+          "odds": {
+            "1": 2.25,
+            "X": "-",
+            "2": 1.65,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "158.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102107,
+          "team1": "Нантер",
+          "team2": "АЕК",
+          "time": "Завтра в 21:30",
+          "total": "160.5",
+          "odds": {
+            "1": 1.8,
+            "X": "-",
+            "2": 2.0,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+1.5"
+            },
+            "TOTAL": "160.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102111,
+          "team1": "Хозяева",
+          "team2": "Гости",
+          "time": "Unknown",
+          "total": "339.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "339.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11047,
+      "championship_name": "АДРИАТИЧЕСКАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102108,
+          "team1": "Мега",
+          "team2": "Спартак Суботица",
+          "time": "Сегодня в 19:00",
+          "total": "166.5",
+          "odds": {
+            "1": 1.72,
+            "X": "-",
+            "2": 2.12,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+2.5"
+            },
+            "TOTAL": "166.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102109,
+          "team1": "СЦ Дерби",
+          "team2": "Цедевита Олимпия",
+          "time": "17 апреля в 20:00",
+          "total": "171.5",
+          "odds": {
+            "1": 2.65,
+            "X": "-",
+            "2": 1.48,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "171.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11049,
+      "championship_name": "СУПЕРЛИГА ЗАПАДНОЙ АЗИИ FIBA",
+      "matches": [
+        {
+          "match_id": 102110,
+          "team1": "Аль-Иттихад Джедда",
+          "team2": "Шабаб Ахли Дубай",
+          "time": "Сегодня в 19:30",
+          "total": "171.5",
+          "odds": {
+            "1": 1.77,
+            "X": "-",
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "TOTAL": "171.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11057,
+      "championship_name": "ГЕРМАНИЯ. БУНДЕСЛИГА",
+      "matches": [
+        {
+          "match_id": 102117,
+          "team1": "Альба Берлин",
+          "team2": "Телеком Бонн",
+          "time": "Завтра в 21:00",
+          "total": "166.5",
+          "odds": {
+            "1": 1.18,
+            "X": "-",
+            "2": 4.85,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+10.5"
+            },
+            "TOTAL": "166.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102118,
+          "team1": "Хайдельберг",
+          "team2": "БВ Хемниц 99",
+          "time": "Завтра в 21:00",
+          "total": "164.5",
+          "odds": {
+            "1": 1.72,
+            "X": "-",
+            "2": 2.12,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+2.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102119,
+          "team1": "Скайлайнерс",
+          "team2": "Росток Сиавулвс",
+          "time": "17 апреля в 21:00",
+          "total": "157.5",
+          "odds": {
+            "1": 2.35,
+            "X": "-",
+            "2": 1.6,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11059,
+      "championship_name": "ГРЕЦИЯ. BASKET LEAGUE. 1/4 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102120,
+          "team1": "Промитеас Патрас",
+          "team2": "Кардицас",
+          "time": "Завтра в 17:15",
+          "total": "154.5",
+          "odds": {
+            "1": 1.4,
+            "X": "-",
+            "2": 2.95,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+6.5"
+            },
+            "TOTAL": "154.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102121,
+          "team1": "АЕК",
+          "team2": "ПАОК",
+          "time": "27 апреля в 21:00",
+          "total": "162.5",
+          "odds": {
+            "1": 1.27,
+            "X": "-",
+            "2": 3.75,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+8.5"
+            },
+            "TOTAL": "162.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11061,
+      "championship_name": "ГРЕЦИЯ. BASKET LEAGUE. ПЛЕЙ-АУТ",
+      "matches": [
+        {
+          "match_id": 102122,
+          "team1": "Лаврио",
+          "team2": "Колосос",
+          "time": "26 апреля в 17:00",
+          "total": "163.5",
+          "odds": {
+            "1": 1.8,
+            "X": "-",
+            "2": 2.0,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+1.5"
+            },
+            "TOTAL": "163.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102123,
+          "team1": "Марусси",
+          "team2": "Арис",
+          "time": "26 апреля в 18:00",
+          "total": "164.5",
+          "odds": {
+            "1": 1.6,
+            "X": "-",
+            "2": 2.35,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+3.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11063,
+      "championship_name": "КИТАЙ. CBA. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102124,
+          "team1": "Ляонин Флайин Леопардс",
+          "team2": "Синьцзян Флаинг Тайгерс",
+          "time": "Сегодня в 14:35",
+          "total": "210.5",
+          "odds": {
+            "1": 1.1,
+            "X": "-",
+            "2": 7.0,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-13.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+13.5"
+            },
+            "TOTAL": "210.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102125,
+          "team1": "Чжэцзян Лайонс",
+          "team2": "Циндао Даблстар Иглз",
+          "time": "Сегодня в 14:35",
+          "total": "201.5",
+          "odds": {
+            "1": 1.11,
+            "X": "-",
+            "2": 6.75,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-13.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+13.5"
+            },
+            "TOTAL": "201.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102133,
+          "team1": "Хозяева",
+          "team2": "Гости",
+          "time": "Unknown",
+          "total": "414.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-26.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.83,
+              "param": "+26.5"
+            },
+            "TOTAL": "414.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11065,
+      "championship_name": "ЮЖНАЯ КОРЕЯ. KBL. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102126,
+          "team1": "Мобис Фобус",
+          "team2": "Аньянг КГК",
+          "time": "Сегодня в 13:00",
+          "total": "162.5",
+          "odds": {
+            "1": 1.6,
+            "X": "-",
+            "2": 2.35,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+3.5"
+            },
+            "TOTAL": "162.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11067,
+      "championship_name": "РОССИЯ. ФОНБЕТ СУПЕРЛИГА. 1/2 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102127,
+          "team1": "ЦСКА 2",
+          "team2": "Химки",
+          "time": "Сегодня в 19:00",
+          "total": "149.5",
+          "odds": {
+            "1": 1.77,
+            "X": "-",
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102128,
+          "team1": "Темп-СУМЗ",
+          "team2": "Зенит 2 СПБ",
+          "time": "Завтра в 16:00",
+          "total": "156.5",
+          "odds": {
+            "1": 1.3,
+            "X": "-",
+            "2": 3.2,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11077,
+      "championship_name": "РОССИЯ. ФОНБЕТ СУПЕРЛИГА. 9-12-Е МЕСТА",
+      "matches": [
+        {
+          "match_id": 102137,
+          "team1": "Купол-Родники",
+          "team2": "Иркут",
+          "time": "Сегодня в 16:00",
+          "total": "146.5",
+          "odds": {
+            "1": 2.65,
+            "X": "-",
+            "2": 1.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "TOTAL": "146.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102138,
+          "team1": "Тамбов",
+          "team2": "Университет-Югра",
+          "time": "Сегодня в 19:00",
+          "total": "149.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11079,
+      "championship_name": "РОССИЯ. ФОНБЕТ СУПЕРЛИГА. 1/2 ФИНАЛА. СЕРИИ. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102139,
+          "team1": "итоги серии. ЦСКА 2",
+          "team2": "Химки",
+          "time": "Сегодня в 19:00",
+          "total": "4.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.6,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.2,
+              "param": "-1.5"
+            },
+            "TOTAL": "4.5",
+            "OVER": 2.45,
+            "UNDER": 1.48
+          },
+          "events": []
+        },
+        {
+          "match_id": 102140,
+          "team1": "итоги серии. Темп-СУМЗ",
+          "team2": "Зенит 2 СПБ",
+          "time": "Завтра в 16:00",
+          "total": "4.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+1.5"
+            },
+            "TOTAL": "4.5",
+            "OVER": 2.65,
+            "UNDER": 1.43
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11081,
+      "championship_name": "ФОНБЕТ ЧЕМПИОНАТ РОССИИ. ЖЕНЩИНЫ. ПРЕМЬЕР-ЛИГА. 1/2 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102141,
+          "team1": "Енисей (ж)",
+          "team2": "УГМК (ж)",
+          "time": "Сегодня в 15:00",
+          "total": "147.5",
+          "odds": {
+            "1": 9.5,
+            "X": "-",
+            "2": 1.03,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+18.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-18.5"
+            },
+            "TOTAL": "147.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102142,
+          "team1": "Надежда (ж)",
+          "team2": "МБА-МГУСиТ (ж)",
+          "time": "Сегодня в 17:00",
+          "total": "136.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "136.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11083,
+      "championship_name": "ФОНБЕТ ЧЕМПИОНАТ РОССИИ. ЖЕНЩИНЫ. ПРЕМЬЕР-ЛИГА. 9-11 МЕСТА",
+      "matches": [
+        {
+          "match_id": 102143,
+          "team1": "Самара (ж)",
+          "team2": "Нефтяник-Титан (ж)",
+          "time": "Сегодня в 17:00",
+          "total": "134.5",
+          "odds": {
+            "1": 2.07,
+            "X": "-",
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "134.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11085,
+      "championship_name": "ФОНБЕТ ЧЕМПИОНАТ РОССИИ. ЖЕНЩИНЫ. ПРЕМЬЕР-ЛИГА. 5-8 МЕСТА",
+      "matches": [
+        {
+          "match_id": 102144,
+          "team1": "Динамо Курск (ж)",
+          "team2": "Спарта энд K (ж)",
+          "time": "Сегодня в 12:00",
+          "total": "141.5",
+          "odds": {
+            "1": 1.11,
+            "X": "-",
+            "2": 5.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-12.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+12.5"
+            },
+            "TOTAL": "141.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102145,
+          "team1": "НИКА-Лузалес (ж)",
+          "team2": "Динамо Новосибирск (ж)",
+          "time": "Сегодня в 15:00",
+          "total": "138.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "138.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11087,
+      "championship_name": "ПОЛЬША. PLK",
+      "matches": [
+        {
+          "match_id": 102146,
+          "team1": "Гурник Валбжих",
+          "team2": "Легия Варшава",
+          "time": "17 апреля в 18:30",
+          "total": "158.5",
+          "odds": {
+            "1": 1.94,
+            "X": "-",
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "TOTAL": "158.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102147,
+          "team1": "Трефл Сопот",
+          "team2": "Зелена-Гура",
+          "time": "17 апреля в 20:30",
+          "total": "170.5",
+          "odds": {
+            "1": 1.1,
+            "X": "-",
+            "2": 5.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-13.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+13.5"
+            },
+            "TOTAL": "170.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11089,
+      "championship_name": "ЛИТВА. LKL",
+      "matches": [
+        {
+          "match_id": 102148,
+          "team1": "Невежис Кедайняй",
+          "team2": "Лиеткабелис",
+          "time": "Сегодня в 18:30",
+          "total": "174.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "174.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102149,
+          "team1": "Нептунас",
+          "team2": "Вулвз",
+          "time": "Сегодня в 19:00",
+          "total": "176.5",
+          "odds": {
+            "1": 2.07,
+            "X": "-",
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "176.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102156,
+          "team1": "Ритас Вильнюс",
+          "team2": "Ювентус",
+          "time": "Завтра в 19:00",
+          "total": "172.5",
+          "odds": {
+            "1": 1.21,
+            "X": "-",
+            "2": 3.9,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "172.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11099,
+      "championship_name": "НОВАЯ ЗЕЛАНДИЯ. NBL",
+      "matches": [
+        {
+          "match_id": 102157,
+          "team1": "Индиан Пантерз",
+          "team2": "Бэй Хокс",
+          "time": "Сегодня в 10:00",
+          "total": "190.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+31.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-31.5"
+            },
+            "TOTAL": "190.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11101,
+      "championship_name": "АВСТРИЯ. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102158,
+          "team1": "Капфенберг",
+          "team2": "Оберварт Ганнерс",
+          "time": "17 апреля в 20:00",
+          "total": "149.5",
+          "odds": {
+            "1": 2.25,
+            "X": "-",
+            "2": 1.57,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102159,
+          "team1": "Аркадия Трайскирхен Лайонс",
+          "team2": "Дюкс Клостернойбург",
+          "time": "17 апреля в 20:00",
+          "total": "147.5",
+          "odds": {
+            "1": 1.46,
+            "X": "-",
+            "2": 2.53,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "TOTAL": "147.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11103,
+      "championship_name": "АЛЖИР. КУБОК",
+      "matches": [
+        {
+          "match_id": 102160,
+          "team1": "Руиба КБ",
+          "team2": "ЮС Сетиф",
+          "time": "Сегодня в 20:00",
+          "total": "145.5",
+          "odds": {
+            "1": 1.07,
+            "X": "-",
+            "2": 6.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-15.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+15.5"
+            },
+            "TOTAL": "145.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11105,
+      "championship_name": "АРГЕНТИНА. LNB",
+      "matches": [
+        {
+          "match_id": 102161,
+          "team1": "Ла Унион Формоза",
+          "team2": "Риачуэло де Ла Риоха",
+          "time": "Завтра в 02:30",
+          "total": "164.5",
+          "odds": {
+            "1": 2.0,
+            "X": "-",
+            "2": 1.72,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-1.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102162,
+          "team1": "Индепендьенте Оливия",
+          "team2": "Сарате",
+          "time": "Завтра в 03:00",
+          "total": "167.5",
+          "odds": {
+            "1": 1.15,
+            "X": "-",
+            "2": 4.7,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+10.5"
+            },
+            "TOTAL": "167.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11107,
+      "championship_name": "АРГЕНТИНА. TORNEO FEDERAL",
+      "matches": [
+        {
+          "match_id": 102163,
+          "team1": "Депортиво Сан-Андрес",
+          "team2": "Атлетико Каса и Песка",
+          "time": "Завтра в 02:30",
+          "total": "155.5",
+          "odds": {
+            "1": 6.85,
+            "X": "-",
+            "2": 1.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+15.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-15.5"
+            },
+            "TOTAL": "155.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102164,
+          "team1": "Весиналь де Мунро",
+          "team2": "Мидланд",
+          "time": "Завтра в 02:30",
+          "total": "144.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "144.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102165,
+          "team1": "К.А.С.А. де Падуа",
+          "team2": "Ривер Плейт",
+          "time": "Завтра в 02:30",
+          "total": "142.5",
+          "odds": {
+            "1": 2.0,
+            "X": "-",
+            "2": 1.72,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-1.5"
+            },
+            "TOTAL": "142.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102166,
+          "team1": "Банко Насион",
+          "team2": "Лос Индиос де Марено",
+          "time": "Завтра в 02:30",
+          "total": "141.5",
+          "odds": {
+            "1": 6.85,
+            "X": "-",
+            "2": 1.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+15.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-15.5"
+            },
+            "TOTAL": "141.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102167,
+          "team1": "Каньяденсе",
+          "team2": "Росарио Сентраль",
+          "time": "Завтра в 03:00",
+          "total": "159.5",
+          "odds": {
+            "1": 1.11,
+            "X": "-",
+            "2": 5.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-12.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+12.5"
+            },
+            "TOTAL": "159.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102168,
+          "team1": "Сан-Мартин Тукуман",
+          "team2": "Консепсьон Тукуман",
+          "time": "Завтра в 03:30",
+          "total": "169.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "169.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102169,
+          "team1": "Николас Авельянеда Сантьяго",
+          "team2": "Авельянеда Сентраль Де Тукуман",
+          "time": "Завтра в 04:00",
+          "total": "153.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "153.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11113,
+      "championship_name": "АРГЕНТИНА. ЛА ЛИГА. 1/4 ФИНАЛА. ДО 3Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102177,
+          "team1": "Суарди",
+          "team2": "Сан-Исидро",
+          "time": "Завтра в 03:00",
+          "total": "156.5",
+          "odds": {
+            "1": 1.35,
+            "X": "-",
+            "2": 2.95,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+6.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102178,
+          "team1": "Аманкай Ла Риоха",
+          "team2": "Индепендьенте Сантиаго дель Эстеро",
+          "time": "Завтра в 03:30",
+          "total": "143.5",
+          "odds": {
+            "1": 1.57,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "143.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11115,
+      "championship_name": "АРГЕНТИНА. LIGA DE DESARROLLO",
+      "matches": [
+        {
+          "match_id": 102179,
+          "team1": "Ла Унион Формоза U22",
+          "team2": "Риачуэло де Ла Риоха U22",
+          "time": "Сегодня в 22:30",
+          "total": "169.5",
+          "odds": {
+            "1": 3.2,
+            "X": "-",
+            "2": 1.3,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-7.5"
+            },
+            "TOTAL": "169.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102180,
+          "team1": "Индепендьенте Оливия U22",
+          "team2": "Сарате U22",
+          "time": "Сегодня в 23:00",
+          "total": "165.5",
+          "odds": {
+            "1": 1.01,
+            "X": "-",
+            "2": 14.0,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-21.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+21.5"
+            },
+            "TOTAL": "165.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11117,
+      "championship_name": "БОЛГАРИЯ. ЖЕНЩИНЫ. НБЛ. ЗА 3-Е МЕСТО. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102181,
+          "team1": "Рилски Спортист (ж)",
+          "team2": "Локомотив София (ж)",
+          "time": "Сегодня в 18:00",
+          "total": "141.5",
+          "odds": {
+            "1": 1.02,
+            "X": "-",
+            "2": 10.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-19.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+19.5"
+            },
+            "TOTAL": "141.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11119,
+      "championship_name": "БРАЗИЛИЯ. NBB",
+      "matches": [
+        {
+          "match_id": 102182,
+          "team1": "Сеси Франка",
+          "team2": "Регатас Фламенго",
+          "time": "Завтра в 02:00",
+          "total": "161.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "161.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102183,
+          "team1": "Коринтианс",
+          "team2": "Кашиас-ду-Сул",
+          "time": "17 апреля в 02:30",
+          "total": "158.5",
+          "odds": {
+            "1": 1.17,
+            "X": "-",
+            "2": 4.4,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+10.5"
+            },
+            "TOTAL": "158.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11121,
+      "championship_name": "БРАЗИЛИЯ. CAMPEONATO BRASILEIRO DE BASQUETE",
+      "matches": [
+        {
+          "match_id": 102184,
+          "team1": "Бруске",
+          "team2": "Осаско",
+          "time": "Завтра в 01:30",
+          "total": "154.5",
+          "odds": {
+            "1": 1.09,
+            "X": "-",
+            "2": 6.0,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-13.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+13.5"
+            },
+            "TOTAL": "154.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11123,
+      "championship_name": "БРАЗИЛИЯ. ЖЕНЩИНЫ. LBF",
+      "matches": [
+        {
+          "match_id": 102185,
+          "team1": "Серрадо (ж)",
+          "team2": "Араракуара (ж)",
+          "time": "Завтра в 01:30",
+          "total": "128.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+24.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-24.5"
+            },
+            "TOTAL": "128.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11125,
+      "championship_name": "BNXT ЛИГА",
+      "matches": [
+        {
+          "match_id": 102186,
+          "team1": "БАЛ Веерт",
+          "team2": "Гронинген",
+          "time": "Сегодня в 21:00",
+          "total": "154.5",
+          "odds": {
+            "1": 2.07,
+            "X": "-",
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "154.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11127,
+      "championship_name": "ВЕЛИКОБРИТАНИЯ. SLB",
+      "matches": [
+        {
+          "match_id": 102187,
+          "team1": "Лондон Лайонс",
+          "team2": "Бристоль Флайерc",
+          "time": "Завтра в 21:30",
+          "total": "156.5",
+          "odds": {
+            "1": 1.21,
+            "X": "-",
+            "2": 3.9,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102188,
+          "team1": "Ньюкасл Иглз",
+          "team2": "Манчестер",
+          "time": "17 апреля в 21:30",
+          "total": "169.5",
+          "odds": {
+            "1": 1.77,
+            "X": "-",
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "TOTAL": "169.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102194,
+          "team1": "Лестер Райдерc",
+          "team2": "Суррей 89",
+          "time": "17 апреля в 21:30",
+          "total": "167.5",
+          "odds": {
+            "1": 1.17,
+            "X": "-",
+            "2": 4.4,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+10.5"
+            },
+            "TOTAL": "167.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11139,
+      "championship_name": "ВЬЕТНАМ. НАЦИОНАЛЬНАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102195,
+          "team1": "Фонг Хонг Хонг Куан",
+          "team2": "Тай Сон Нам",
+          "time": "Сегодня в 15:30",
+          "total": "135.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-28.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+28.5"
+            },
+            "TOTAL": "135.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11141,
+      "championship_name": "ВЬЕТНАМ. ЖЕНЩИНЫ. НАЦИОНАЛЬНАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102196,
+          "team1": "Бин Туан (ж)",
+          "team2": "Кантхо (ж)",
+          "time": "Сегодня в 12:00",
+          "total": "129.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+22.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-22.5"
+            },
+            "TOTAL": "129.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102197,
+          "team1": "Ба Риа Вунг Тау (ж)",
+          "team2": "ТП Хошимин (ж)",
+          "time": "Сегодня в 14:00",
+          "total": "124.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+30.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-30.5"
+            },
+            "TOTAL": "124.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11143,
+      "championship_name": "ВЕНЕСУЭЛА. SLB",
+      "matches": [
+        {
+          "match_id": 102198,
+          "team1": "Пиратас Ла Гуайра",
+          "team2": "Пантерас де Миранда",
+          "time": "Завтра в 01:45",
+          "total": "157.5",
+          "odds": {
+            "1": 1.28,
+            "X": "-",
+            "2": 3.35,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+8.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102199,
+          "team1": "Кокодрилос де Каракас",
+          "team2": "Маринос де Анжойтеги",
+          "time": "Завтра в 02:00",
+          "total": "157.5",
+          "odds": {
+            "1": 1.88,
+            "X": "-",
+            "2": 1.82,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "-1.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102200,
+          "team1": "Льянерос де Гуарико",
+          "team2": "Торос де Арагуа",
+          "time": "Завтра в 02:00",
+          "total": "148.5",
+          "odds": {
+            "1": 1.62,
+            "X": "-",
+            "2": 2.15,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "TOTAL": "148.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102201,
+          "team1": "Гуайкериес де Маргарита",
+          "team2": "Спартанс Дистрикто Кэпитал",
+          "time": "Завтра в 02:00",
+          "total": "155.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "155.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11145,
+      "championship_name": "ГЕРМАНИЯ. ЖЕНЩИНЫ. БУНДЕСЛИГА. 1/2 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102202,
+          "team1": "Рутроник Старз Кельтерн (ж)",
+          "team2": "Оснабрюк (ж)",
+          "time": "Сегодня в 19:30",
+          "total": "138.5",
+          "odds": {
+            "1": 1.35,
+            "X": "-",
+            "2": 2.95,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+6.5"
+            },
+            "TOTAL": "138.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102203,
+          "team1": "Альба Берлин (ж)",
+          "team2": "Заарлоуис Роялс (ж)",
+          "time": "Сегодня в 20:00",
+          "total": "125.5",
+          "odds": {
+            "1": 1.57,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "125.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11147,
+      "championship_name": "ДАНИЯ. БАСКЕТЛИГАН",
+      "matches": [
+        {
+          "match_id": 102204,
+          "team1": "Беарз Академи",
+          "team2": "Амагер",
+          "time": "Сегодня в 19:30",
+          "total": "176.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "176.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11149,
+      "championship_name": "ИЗРАИЛЬ. СУПЕРЛИГА",
+      "matches": [
+        {
+          "match_id": 102205,
+          "team1": "Маккаби Ирони Рамат Ган",
+          "team2": "Элитцур Нетания",
+          "time": "Завтра в 18:00",
+          "total": "166.5",
+          "odds": {
+            "1": 1.25,
+            "X": "-",
+            "2": 3.95,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "166.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        },
+        {
+          "match_id": 102206,
+          "team1": "Хапоэль Галиль Элион",
+          "team2": "Хапоэль Иерусалим",
+          "time": "Завтра в 20:30",
+          "total": "162.5",
+          "odds": {
+            "1": 3.95,
+            "X": "-",
+            "2": 1.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.95,
+              "param": "-9.5"
+            },
+            "TOTAL": "162.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102212,
+          "team1": "Хапоэль Афула",
+          "team2": "Хапоэль Беэр Шева",
+          "time": "17 апреля в 19:00",
+          "total": "170.5",
+          "odds": {
+            "1": 1.65,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "170.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102213,
+          "team1": "Хапоэль Хайфа",
+          "team2": "Хапоэль Холон",
+          "time": "17 апреля в 21:05",
+          "total": "169.5",
+          "odds": {
+            "1": 3.95,
+            "X": "-",
+            "2": 1.25,
+            "HANDICAP 1": {
+              "value": 1.95,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "TOTAL": "169.5",
+            "OVER": 1.9,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102214,
+          "team1": "Маккаби Тель-Авив",
+          "team2": "Бней Герцлия",
+          "time": "17 апреля в 21:05",
+          "total": "177.5",
+          "odds": {
+            "1": 1.14,
+            "X": "-",
+            "2": 5.75,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-11.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "+11.5"
+            },
+            "TOTAL": "177.5",
+            "OVER": 1.87,
+            "UNDER": 1.93
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11159,
+      "championship_name": "ИСЛАНДИЯ. ПРЕМЬЕР-ЛИГА. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102215,
+          "team1": "Аульфтанес",
+          "team2": "Ньярдвик",
+          "time": "Сегодня в 21:30",
+          "total": "186.5",
+          "odds": {
+            "1": 2.15,
+            "X": "-",
+            "2": 1.62,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-2.5"
+            },
+            "TOTAL": "186.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102216,
+          "team1": "ИР Рейкьявик",
+          "team2": "Стьярнан",
+          "time": "Сегодня в 22:00",
+          "total": "179.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "179.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11161,
+      "championship_name": "КАНАДА. BSL",
+      "matches": [
+        {
+          "match_id": 102217,
+          "team1": "Уинсдор Экспресс",
+          "team2": "КВ Титанс",
+          "time": "Завтра в 02:00",
+          "total": "197.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "197.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11163,
+      "championship_name": "КИТАЙ. CDBL",
+      "matches": [
+        {
+          "match_id": 102218,
+          "team1": "Нинбо Уэйвс",
+          "team2": "Фучжоу Гардианс",
+          "time": "12:00",
+          "total": "195.5",
+          "odds": {
+            "1": 1.19,
+            "X": "-",
+            "2": 4.2,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.83,
+              "param": "+8.5"
+            },
+            "TOTAL": "195.5",
+            "OVER": 1.83,
+            "UNDER": 1.87
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11165,
+      "championship_name": "КИТАЙ. СТУДЕНЧЕСКАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102219,
+          "team1": "Хунаньский Технологический Университет",
+          "team2": "Хуанчжун Унив Науки и Техн",
+          "time": "Сегодня в 11:00",
+          "total": "159.5",
+          "odds": {
+            "1": 6.85,
+            "X": "-",
+            "2": 1.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+15.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-15.5"
+            },
+            "TOTAL": "159.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102220,
+          "team1": "Хунаньский Педагог Унив",
+          "team2": "Чунцинский Унив Искусств и Наук",
+          "time": "Сегодня в 13:30",
+          "total": "157.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11167,
+      "championship_name": "КИТАЙ. ЖЕНЩИНЫ. СТУДЕНЧЕСКАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102221,
+          "team1": "Гуанси Нормал Университет (ж)",
+          "team2": "Центральный Южный Университет (ж)",
+          "time": "Сегодня в 09:30",
+          "total": "141.5",
+          "odds": {
+            "1": 7.5,
+            "X": "-",
+            "2": 1.06,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+16.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-16.5"
+            },
+            "TOTAL": "141.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102222,
+          "team1": "Хуанчжунский университет науки и технологий (ж)",
+          "team2": "Хунаньский Педагогический Университет (ж)",
+          "time": "Сегодня в 15:00",
+          "total": "138.5",
+          "odds": {
+            "1": 1.06,
+            "X": "-",
+            "2": 7.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-16.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+16.5"
+            },
+            "TOTAL": "138.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11169,
+      "championship_name": "КОСОВО. ЖЕНЩИНЫ. СУПЕРЛИГА",
+      "matches": [
+        {
+          "match_id": 102223,
+          "team1": "Башкими (ж)",
+          "team2": "Пея 03 (ж)",
+          "time": "Сегодня в 20:00",
+          "total": "151.5",
+          "odds": {
+            "1": 1.42,
+            "X": "-",
+            "2": 2.65,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "TOTAL": "151.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11179,
+      "championship_name": "ЛИВАН. 1-Й ДИВИЗИОН",
+      "matches": [
+        {
+          "match_id": 102229,
+          "team1": "Антонин",
+          "team2": "Антраник",
+          "time": "Сегодня в 16:45",
+          "total": "166.5",
+          "odds": {
+            "1": 1.35,
+            "X": "-",
+            "2": 2.95,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+6.5"
+            },
+            "TOTAL": "166.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11181,
+      "championship_name": "НОРВЕГИЯ. BLNO. ФИНАЛ. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102230,
+          "team1": "Конгсберг",
+          "team2": "Фюллинген",
+          "time": "Сегодня в 20:00",
+          "total": "153.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "153.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11183,
+      "championship_name": "РОССИЯ. IPBL. PRO DIVISION",
+      "matches": [
+        {
+          "match_id": 102231,
+          "team1": "Камчатка",
+          "team2": "Кубань",
+          "time": "5:43",
+          "total": "189.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.4,
+            "HANDICAP 1": {
+              "value": 1.76,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.94,
+              "param": "+3.5"
+            },
+            "TOTAL": "189.5",
+            "OVER": 1.77,
+            "UNDER": 1.93
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11185,
+      "championship_name": "РОССИЯ. IPBL. ЖЕНЩИНЫ. PRO DIVISION",
+      "matches": [
+        {
+          "match_id": 102232,
+          "team1": "Курск (ж)",
+          "team2": "Вологда (ж)",
+          "time": "6:25",
+          "total": "218.5",
+          "odds": {
+            "1": 3.4,
+            "X": "-",
+            "2": 1.27,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.87,
+              "param": "-10.5"
+            },
+            "TOTAL": "218.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11187,
+      "championship_name": "РОССИЯ. IPBL. PRIME DIVISION",
+      "matches": [
+        {
+          "match_id": 102233,
+          "team1": "Мед Антс",
+          "team2": "Лейкленд",
+          "time": "6:03",
+          "total": "273.5",
+          "odds": {
+            "1": 1.6,
+            "X": "-",
+            "2": 2.2,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "TOTAL": "273.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11189,
+      "championship_name": "РОССИЯ. IPBL. ЖЕНЩИНЫ. PRIME DIVISION",
+      "matches": [
+        {
+          "match_id": 102234,
+          "team1": "Тайгерс (ж)",
+          "team2": "Лэди Бульдогс (ж)",
+          "time": "5:45",
+          "total": "231.5",
+          "odds": {
+            "1": 2.8,
+            "X": "-",
+            "2": 1.38,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.87,
+              "param": "-8.5"
+            },
+            "TOTAL": "231.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11195,
+      "championship_name": "САЛЬВАДОР. ЛИГА МАЙОР",
+      "matches": [
+        {
+          "match_id": 102237,
+          "team1": "Брухос де Исалько",
+          "team2": "АД Исидро Метапан",
+          "time": "Завтра в 04:15",
+          "total": "157.5",
+          "odds": {
+            "1": 4.4,
+            "X": "-",
+            "2": 1.17,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-10.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11197,
+      "championship_name": "СЕРБИЯ. ДО 19 ЛЕТ. МОЛОДЕЖНОЕ ПЕРВЕНСТВО",
+      "matches": [
+        {
+          "match_id": 102238,
+          "team1": "Спартак Суботица U19",
+          "team2": "Мега U19",
+          "time": "Сегодня в 14:00",
+          "total": "159.5",
+          "odds": {
+            "1": 14.0,
+            "X": "-",
+            "2": 1.01,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+21.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-21.5"
+            },
+            "TOTAL": "159.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11199,
+      "championship_name": "СЛОВАКИЯ. ЭКСТРАЛИГА. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102239,
+          "team1": "Спишски Рытьери",
+          "team2": "Гандлова",
+          "time": "Сегодня в 19:00",
+          "total": "157.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102240,
+          "team1": "БК Комарно",
+          "team2": "Интер Братислава",
+          "time": "Сегодня в 19:00",
+          "total": "160.5",
+          "odds": {
+            "1": 2.53,
+            "X": "-",
+            "2": 1.46,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "TOTAL": "160.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11201,
+      "championship_name": "ФИЛИППИНЫ. MPBL",
+      "matches": [
+        {
+          "match_id": 102241,
+          "team1": "Пасиг Сити",
+          "team2": "Кесон Хаскерс",
+          "time": "Сегодня в 13:00",
+          "total": "148.5",
+          "odds": {
+            "1": 6.0,
+            "X": "-",
+            "2": 1.09,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+13.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-13.5"
+            },
+            "TOTAL": "148.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102242,
+          "team1": "Параньяке Пэтриотс",
+          "team2": "Пасай Вояжер",
+          "time": "Сегодня в 15:00",
+          "total": "145.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "145.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11203,
+      "championship_name": "ФИНЛЯНДИЯ. КОРИСЛИГА. 1/2 ФИНАЛА. ДО 4-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102243,
+          "team1": "Катайя",
+          "team2": "Каухайоки",
+          "time": "Сегодня в 18:30",
+          "total": "171.5",
+          "odds": {
+            "1": 1.82,
+            "X": "-",
+            "2": 1.88,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+1.5"
+            },
+            "TOTAL": "171.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11205,
+      "championship_name": "ФРАНЦИЯ. ПРО Б",
+      "matches": [
+        {
+          "match_id": 102244,
+          "team1": "Шалонc-Реймс",
+          "team2": "Кан",
+          "time": "Сегодня в 21:00",
+          "total": "160.5",
+          "odds": {
+            "1": 1.5,
+            "X": "-",
+            "2": 2.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "160.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11207,
+      "championship_name": "ФРАНЦИЯ. НАСЬОНАЛЬ 1",
+      "matches": [
+        {
+          "match_id": 102245,
+          "team1": "Лионсо",
+          "team2": "Юнион Тарб Лурд",
+          "time": "Сегодня в 21:00",
+          "total": "156.5",
+          "odds": {
+            "1": 2.07,
+            "X": "-",
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102246,
+          "team1": "Анфант дю Форез",
+          "team2": "Пэи де Фужер",
+          "time": "Сегодня в 21:00",
+          "total": "158.5",
+          "odds": {
+            "1": 1.67,
+            "X": "-",
+            "2": 2.07,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "TOTAL": "158.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102247,
+          "team1": "Этуаль Шарлевиль-Мезьер",
+          "team2": "Лорьян",
+          "time": "Сегодня в 21:00",
+          "total": "167.5",
+          "odds": {
+            "1": 2.07,
+            "X": "-",
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "TOTAL": "167.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102248,
+          "team1": "Андрезье Бутеон",
+          "team2": "УТБ Метрополь",
+          "time": "Сегодня в 21:00",
+          "total": "156.5",
+          "odds": {
+            "1": 1.94,
+            "X": "-",
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102249,
+          "team1": "Безансон",
+          "team2": "Анжер",
+          "time": "Сегодня в 21:00",
+          "total": "149.5",
+          "odds": {
+            "1": 1.57,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102256,
+          "team1": "СОМ Булонь",
+          "team2": "Пуасси",
+          "time": "Сегодня в 21:00",
+          "total": "156.5",
+          "odds": {
+            "1": 1.25,
+            "X": "-",
+            "2": 3.55,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+8.5"
+            },
+            "TOTAL": "156.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102257,
+          "team1": "Лон-Плаж",
+          "team2": "Вандея-Шалан",
+          "time": "Сегодня в 21:00",
+          "total": "155.5",
+          "odds": {
+            "1": 2.42,
+            "X": "-",
+            "2": 1.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "155.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102258,
+          "team1": "Мец",
+          "team2": "Унион Ренн",
+          "time": "Сегодня в 21:00",
+          "total": "162.5",
+          "odds": {
+            "1": 2.65,
+            "X": "-",
+            "2": 1.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "TOTAL": "162.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102259,
+          "team1": "Орши",
+          "team2": "Витр",
+          "time": "Сегодня в 21:00",
+          "total": "147.5",
+          "odds": {
+            "1": 1.23,
+            "X": "-",
+            "2": 3.7,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+9.5"
+            },
+            "TOTAL": "147.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102260,
+          "team1": "Унион Спортив Авиньон Понте",
+          "team2": "Тулуза",
+          "time": "Сегодня в 21:00",
+          "total": "155.5",
+          "odds": {
+            "1": 2.65,
+            "X": "-",
+            "2": 1.42,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "TOTAL": "155.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102261,
+          "team1": "СТБ Ле Гавр",
+          "team2": "Леваллуа",
+          "time": "Сегодня в 21:00",
+          "total": "152.5",
+          "odds": {
+            "1": 1.21,
+            "X": "-",
+            "2": 3.9,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "152.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102262,
+          "team1": "Мюлюз",
+          "team2": "Саблес Венди",
+          "time": "Сегодня в 21:00",
+          "total": "149.5",
+          "odds": {
+            "1": 1.57,
+            "X": "-",
+            "2": 2.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102263,
+          "team1": "Сен-Валье",
+          "team2": "Кемпер",
+          "time": "Сегодня в 21:30",
+          "total": "164.5",
+          "odds": {
+            "1": 3.55,
+            "X": "-",
+            "2": 1.25,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11215,
+      "championship_name": "ХОРВАТИЯ. ПРЕМЬЕР-ЛИГА",
+      "matches": [
+        {
+          "match_id": 102264,
+          "team1": "Сплит",
+          "team2": "Цедевита Юниор",
+          "time": "17 апреля в 20:00",
+          "total": "163.5",
+          "odds": {
+            "1": 1.21,
+            "X": "-",
+            "2": 3.9,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "163.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11217,
+      "championship_name": "ЧЕХИЯ. NBL. 1/4 ФИНАЛА. ДО 4-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102265,
+          "team1": "Сокол Писек Срсни",
+          "team2": "Дечин",
+          "time": "Сегодня в 19:00",
+          "total": "171.5",
+          "odds": {
+            "1": 1.94,
+            "X": "-",
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "TOTAL": "171.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        },
+        {
+          "match_id": 102266,
+          "team1": "Брно",
+          "team2": "Слунета Усти над Лабем",
+          "time": "Сегодня в 20:00",
+          "total": "165.5",
+          "odds": {
+            "1": 1.46,
+            "X": "-",
+            "2": 2.53,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "TOTAL": "165.5",
+            "OVER": 1.82,
+            "UNDER": 1.88
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11219,
+      "championship_name": "ЧЕХИЯ. ЖЕНЩИНЫ. 1-Я ЛИГА. 1/4 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102267,
+          "team1": "Аритма Прага (ж)",
+          "team2": "УП Оломоуц (ж)",
+          "time": "Сегодня в 20:00",
+          "total": "149.5",
+          "odds": {
+            "1": 1.04,
+            "X": "-",
+            "2": 8.5,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-17.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+17.5"
+            },
+            "TOTAL": "149.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11221,
+      "championship_name": "ШВЕЙЦАРИЯ. NLB. 1/4 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102268,
+          "team1": "Цюрих Уайлдкетс",
+          "team2": "Бернекс",
+          "time": "Сегодня в 21:00",
+          "total": "141.5",
+          "odds": {
+            "1": 1.25,
+            "X": "-",
+            "2": 3.55,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+8.5"
+            },
+            "TOTAL": "141.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11223,
+      "championship_name": "ШВЕЦИЯ. БАСКЕТЛИГАН. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102269,
+          "team1": "Лулео",
+          "team2": "КФУМ Несше",
+          "time": "Сегодня в 20:04",
+          "total": "182.5",
+          "odds": {
+            "1": 1.13,
+            "X": "-",
+            "2": 5.1,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-11.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+11.5"
+            },
+            "TOTAL": "182.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 102276,
+          "team1": "Кепинг Старз",
+          "team2": "КФУМ Уппсала",
+          "time": "Завтра в 20:04",
+          "total": "164.5",
+          "odds": {
+            "1": 1.32,
+            "X": "-",
+            "2": 3.1,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+7.5"
+            },
+            "TOTAL": "164.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11235,
+      "championship_name": "ЭСТОНИЯ. 1-Я ЛИГА. 1/2 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102277,
+          "team1": "Рае Косс / Хансавиимистлус",
+          "team2": "ЕМУ СК",
+          "time": "Сегодня в 19:30",
+          "total": "157.5",
+          "odds": {
+            "1": 2.53,
+            "X": "-",
+            "2": 1.46,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "TOTAL": "157.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11237,
+      "championship_name": "ЭСТОНИЯ. KML. 1/4 ФИНАЛА. ДО 3-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102278,
+          "team1": "Тарту Юликоол",
+          "team2": "Виймси",
+          "time": "Сегодня в 19:00",
+          "total": "162.5",
+          "odds": {
+            "1": 1.12,
+            "X": "-",
+            "2": 5.3,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-12.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "+12.5"
+            },
+            "TOTAL": "162.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11239,
+      "championship_name": "АРГЕНТИНА. ЖЕНЩИНЫ. ЛА ЛИГА. 1/2 ФИНАЛА. ДО 2-Х ПОБЕД",
+      "matches": [
+        {
+          "match_id": 102279,
+          "team1": "Ферро Каррил Оэсте (ж)",
+          "team2": "Эль Талар (ж)",
+          "time": "Завтра в 02:30",
+          "total": "137.5",
+          "odds": {
+            "1": 1.17,
+            "X": "-",
+            "2": 4.4,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+10.5"
+            },
+            "TOTAL": "137.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11241,
+      "championship_name": "ЮЖНАЯ КОРЕЯ. УНИВЕРСИТЕТСКАЯ ЛИГА",
+      "matches": [
+        {
+          "match_id": 102280,
+          "team1": "Сунгюнкван Унив",
+          "team2": "Данкук Унив",
+          "time": "Сегодня в 10:00",
+          "total": "153.5",
+          "odds": {
+            "1": 1.3,
+            "X": "-",
+            "2": 3.2,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "TOTAL": "153.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11243,
+      "championship_name": "NBA 2K25. UNITED ESPORTS LEAGUES. 4X5 МИН. ЧЕХИЯ",
+      "matches": [
+        {
+          "match_id": 102281,
+          "team1": "Мемфис (ZamzaM)",
+          "team2": "Атланта (Tekzz)",
+          "time": "6:33",
+          "total": "103.5",
+          "odds": {
+            "1": 1.2,
+            "X": "-",
+            "2": 4.25,
+            "HANDICAP 1": {
+              "value": 1.68,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.11,
+              "param": "+6.5"
+            },
+            "TOTAL": "103.5",
+            "OVER": 2.12,
+            "UNDER": 1.67
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11245,
+      "championship_name": "NBA 2K25. H2H LIGA-3. ВОСТОК-1. ХАБАРОВСК. 4Х4",
+      "matches": [
+        {
+          "match_id": 102282,
+          "team1": "Даллас (JIMMY_WALKER13)",
+          "team2": "Денвер (LAME_4UP)",
+          "time": "8:00",
+          "total": "90.5",
+          "odds": {
+            "1": 1.58,
+            "X": "-",
+            "2": 2.3,
+            "HANDICAP 1": {
+              "value": 1.89,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "TOTAL": "90.5",
+            "OVER": 1.83,
+            "UNDER": 1.92
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11247,
+      "championship_name": "NBA 2K25. ESPORTSBATTLE 4Х5",
+      "matches": [
+        {
+          "match_id": 102283,
+          "team1": "Орландо (panteraxball)",
+          "team2": "Чикаго (CHIEFKEEF)",
+          "time": "17:46",
+          "total": "112.5",
+          "odds": {
+            "1": 1.68,
+            "X": "-",
+            "2": 2.05,
+            "HANDICAP 1": {
+              "value": 1.93,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.77,
+              "param": "+1.5"
+            },
+            "TOTAL": "112.5",
+            "OVER": 1.87,
+            "UNDER": 1.83
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11249,
+      "championship_name": "NBA 2K25. ESPORTSBATTLE 4Х8",
+      "matches": [
+        {
+          "match_id": 102284,
+          "team1": "Бостон (Rumble)",
+          "team2": "Оклахома-Сити (JoKeR)",
+          "time": "0:30",
+          "total": "183.5",
+          "odds": {
+            "1": 4.2,
+            "X": "-",
+            "2": 1.19,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+10.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-10.5"
+            },
+            "TOTAL": "183.5",
+            "OVER": 1.8,
+            "UNDER": 1.9
+          },
+          "events": []
+        },
+        {
+          "match_id": 102288,
+          "team1": "Локомотив",
+          "team2": "Кубань",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 8.0,
+            "X": 1.05,
+            "2": 3.0,
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102289,
+          "team1": "МБА",
+          "team2": "МАИ",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1000.0,
+            "X": "-",
+            "2": 700.0,
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102290,
+          "team1": "Темп",
+          "team2": "СУМЗ",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1.87,
+            "X": 1.83,
+            "2": 1.3,
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 3.3,
+            "UNDER": 1.28
+          },
+          "events": []
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-15 08:07:48"
+}

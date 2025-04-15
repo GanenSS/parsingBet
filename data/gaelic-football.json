@@ -1,0 +1,249 @@
+{
+  "sport_id": 1,
+  "sport_name": "Football",
+  "sport_url": "gaelic-football",
+  "url": "https://fon.bet/sports/gaelic-football",
+  "championships": [
+    {
+      "championship_id": 11909,
+      "championship_name": "ГЭЛЬСКИЙ ФУТБОЛ. ЧЕМПИОНАТ КОННАХТА",
+      "matches": [
+        {
+          "match_id": 103466,
+          "team1": "Литрим",
+          "team2": "Мейо",
+          "time": "19 апреля в 18:30",
+          "total": "-",
+          "odds": {
+            "1": 25.0,
+            "X": 25.0,
+            "2": 1.01,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+19.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.8,
+              "param": "-19.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103467,
+          "team1": "Голуэй",
+          "team2": "Роскоммон",
+          "time": "20 апреля в 18:00",
+          "total": "-",
+          "odds": {
+            "1": 1.3,
+            "X": 12.5,
+            "2": 3.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11911,
+      "championship_name": "ГЭЛЬСКИЙ ФУТБОЛ. ЧЕМПИОНАТ ОЛЬСТЕРА",
+      "matches": [
+        {
+          "match_id": 103468,
+          "team1": "Фермана",
+          "team2": "Даун",
+          "time": "19 апреля в 18:00",
+          "total": "-",
+          "odds": {
+            "1": 4.5,
+            "X": 14.0,
+            "2": 1.23,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103469,
+          "team1": "Монахан",
+          "team2": "Донегол",
+          "time": "20 апреля в 16:00",
+          "total": "-",
+          "odds": {
+            "1": 3.65,
+            "X": 12.5,
+            "2": 1.33,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11913,
+      "championship_name": "ГЭЛЬСКИЙ ФУТБОЛ. ЧЕМПИОНАТ МАНСТЕРА",
+      "matches": [
+        {
+          "match_id": 103470,
+          "team1": "Клэр",
+          "team2": "Типперэри",
+          "time": "19 апреля в 16:00",
+          "total": "-",
+          "odds": {
+            "1": 1.07,
+            "X": 22.0,
+            "2": 7.4,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "+9.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103471,
+          "team1": "Корк",
+          "team2": "Керри",
+          "time": "19 апреля в 21:00",
+          "total": "-",
+          "odds": {
+            "1": 6.3,
+            "X": 20.0,
+            "2": 1.11,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11915,
+      "championship_name": "ХЕРЛИНГ. ЧЕМПИОНАТ ЛЕНСТЕРА",
+      "matches": [
+        {
+          "match_id": 103472,
+          "team1": "Уэксфорд",
+          "team2": "Антрим",
+          "time": "19 апреля в 16:00",
+          "total": "-",
+          "odds": {
+            "1": 1.05,
+            "X": 22.0,
+            "2": 8.5,
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11917,
+      "championship_name": "ХЕРЛИНГ. ЧЕМПИОНАТ МАНСТЕРА",
+      "matches": [
+        {
+          "match_id": 103473,
+          "team1": "Клэр",
+          "team2": "Корк",
+          "time": "20 апреля в 16:00",
+          "total": "-",
+          "odds": {
+            "1": 3.9,
+            "X": 12.5,
+            "2": 1.3,
+            "HANDICAP 1": {
+              "value": 1.73,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.0,
+              "param": "-5.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103474,
+          "team1": "Типперэри",
+          "team2": "Лимерик",
+          "time": "20 апреля в 18:00",
+          "total": "-",
+          "odds": {
+            "1": 3.9,
+            "X": 12.5,
+            "2": 1.3,
+            "HANDICAP 1": {
+              "value": 1.73,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": {
+              "value": 2.0,
+              "param": "-5.5"
+            },
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-15 08:31:14"
+}

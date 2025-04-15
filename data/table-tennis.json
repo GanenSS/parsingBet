@@ -1,0 +1,5466 @@
+{
+  "sport_id": 3,
+  "sport_name": "Tennis",
+  "sport_url": "table-tennis",
+  "url": "https://fon.bet/sports/table-tennis",
+  "championships": [
+    {
+      "championship_id": 11363,
+      "championship_name": "РОССИЯ. ЛИГА ПРО А4. МОСКВА",
+      "matches": [
+        {
+          "match_id": 102357,
+          "team1": "Хомяков В",
+          "team2": "Школьников Ю",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 4.0,
+            "X": 1.2,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102358,
+          "team1": "Школьников Ю",
+          "team2": "Цыбульский В",
+          "time": "Сегодня в 08:35",
+          "total": "-",
+          "odds": {
+            "1": 2.3,
+            "X": 1.55,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102359,
+          "team1": "Богомолов А",
+          "team2": "Хомяков В",
+          "time": "Сегодня в 09:05",
+          "total": "-",
+          "odds": {
+            "1": 2.15,
+            "X": 1.62,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102360,
+          "team1": "Хомяков В",
+          "team2": "Цыбульский В",
+          "time": "Сегодня в 09:35",
+          "total": "-",
+          "odds": {
+            "1": 2.5,
+            "X": 1.47,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102361,
+          "team1": "Школьников Ю",
+          "team2": "Богомолов А",
+          "time": "Сегодня в 10:05",
+          "total": "-",
+          "odds": {
+            "1": 2.5,
+            "X": 1.47,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102362,
+          "team1": "Васильев В",
+          "team2": "Денисов О",
+          "time": "Сегодня в 11:35",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102363,
+          "team1": "Хургин В",
+          "team2": "Васютин И",
+          "time": "Сегодня в 12:05",
+          "total": "-",
+          "odds": {
+            "1": 1.45,
+            "X": 2.55,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102364,
+          "team1": "Денисов О",
+          "team2": "Хургин В",
+          "time": "Сегодня в 12:35",
+          "total": "-",
+          "odds": {
+            "1": 2.5,
+            "X": 1.47,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102365,
+          "team1": "Васютин И",
+          "team2": "Васильев В",
+          "time": "Сегодня в 13:05",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102366,
+          "team1": "Васильев В",
+          "team2": "Хургин В",
+          "time": "Сегодня в 13:35",
+          "total": "-",
+          "odds": {
+            "1": 1.37,
+            "X": 2.85,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102367,
+          "team1": "Денисов О",
+          "team2": "Васютин И",
+          "time": "Сегодня в 14:05",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102368,
+          "team1": "Ипполитов В",
+          "team2": "Руденко В",
+          "time": "Сегодня в 15:35",
+          "total": "-",
+          "odds": {
+            "1": 1.95,
+            "X": 1.75,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102369,
+          "team1": "Казаков А",
+          "team2": "Алексеев А А",
+          "time": "Сегодня в 16:05",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102370,
+          "team1": "Руденко В",
+          "team2": "Казаков А",
+          "time": "Сегодня в 16:35",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102371,
+          "team1": "Алексеев А А",
+          "team2": "Ипполитов В",
+          "time": "Сегодня в 17:05",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102372,
+          "team1": "Ипполитов В",
+          "team2": "Казаков А",
+          "time": "Сегодня в 17:35",
+          "total": "-",
+          "odds": {
+            "1": 2.65,
+            "X": 1.43,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102373,
+          "team1": "Руденко В",
+          "team2": "Алексеев А А",
+          "time": "Сегодня в 18:05",
+          "total": "-",
+          "odds": {
+            "1": 1.45,
+            "X": 2.55,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11365,
+      "championship_name": "РОССИЯ. ЛИГА ПРО А5. МОСКВА",
+      "matches": [
+        {
+          "match_id": 102374,
+          "team1": "Смирнов М",
+          "team2": "Метелешко И",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 11.0,
+            "X": 1.01,
+            "2": 1.67,
+            "HANDICAP 1": {
+              "value": 2.07,
+              "param": "-12.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102375,
+          "team1": "Мануйлов О",
+          "team2": "Смирнов М",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102376,
+          "team1": "Метелешко И",
+          "team2": "Мошников О",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 2.3,
+            "X": 1.55,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102377,
+          "team1": "Мошников О",
+          "team2": "Смирнов М",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102378,
+          "team1": "Мануйлов О",
+          "team2": "Метелешко И",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102384,
+          "team1": "Гульницкий В",
+          "team2": "Зюганов О",
+          "time": "Сегодня в 11:20",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102385,
+          "team1": "Путиловский В",
+          "team2": "Минченков И",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102386,
+          "team1": "Зюганов О",
+          "team2": "Путиловский В",
+          "time": "Сегодня в 12:20",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102387,
+          "team1": "Минченков И",
+          "team2": "Гульницкий В",
+          "time": "Сегодня в 12:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102388,
+          "team1": "Гульницкий В",
+          "team2": "Путиловский В",
+          "time": "Сегодня в 13:20",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102389,
+          "team1": "Зюганов О",
+          "team2": "Минченков И",
+          "time": "Сегодня в 13:50",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102390,
+          "team1": "Михайлов А",
+          "team2": "Щавелев Н",
+          "time": "Сегодня в 15:20",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102391,
+          "team1": "Кривенький Ю",
+          "team2": "Конобеев А",
+          "time": "Сегодня в 15:50",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102392,
+          "team1": "Щавелев Н",
+          "team2": "Кривенький Ю",
+          "time": "Сегодня в 16:20",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102393,
+          "team1": "Конобеев А",
+          "team2": "Михайлов А",
+          "time": "Сегодня в 16:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102394,
+          "team1": "Михайлов А",
+          "team2": "Кривенький Ю",
+          "time": "Сегодня в 17:20",
+          "total": "-",
+          "odds": {
+            "1": 2.1,
+            "X": 1.65,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102395,
+          "team1": "Щавелев Н",
+          "team2": "Конобеев А",
+          "time": "Сегодня в 17:50",
+          "total": "-",
+          "odds": {
+            "1": 1.55,
+            "X": 2.3,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11371,
+      "championship_name": "РОССИЯ. ЛИГА ПРО А6. МОСКВА",
+      "matches": [
+        {
+          "match_id": 102396,
+          "team1": "Попов О",
+          "team2": "Шершнев А",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 3.4,
+            "X": 1.27,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102397,
+          "team1": "Чернов В",
+          "team2": "Попов О",
+          "time": "Сегодня в 08:35",
+          "total": "-",
+          "odds": {
+            "1": 3.3,
+            "X": 1.28,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102398,
+          "team1": "Шершнев А",
+          "team2": "Молодцов Д",
+          "time": "Сегодня в 09:05",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102403,
+          "team1": "Молодцов Д",
+          "team2": "Попов О",
+          "time": "Сегодня в 09:35",
+          "total": "-",
+          "odds": {
+            "1": 2.23,
+            "X": 1.58,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102404,
+          "team1": "Чернов В",
+          "team2": "Шершнев А",
+          "time": "Сегодня в 10:05",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102405,
+          "team1": "Богденко В",
+          "team2": "Агабабян Р",
+          "time": "Сегодня в 11:35",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102406,
+          "team1": "Строев А",
+          "team2": "Яковлев А",
+          "time": "Сегодня в 12:05",
+          "total": "-",
+          "odds": {
+            "1": 1.76,
+            "X": 1.94,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102407,
+          "team1": "Агабабян Р",
+          "team2": "Строев А",
+          "time": "Сегодня в 12:35",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102408,
+          "team1": "Яковлев А",
+          "team2": "Богденко В",
+          "time": "Сегодня в 13:05",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102409,
+          "team1": "Богденко В",
+          "team2": "Строев А",
+          "time": "Сегодня в 13:35",
+          "total": "-",
+          "odds": {
+            "1": 1.45,
+            "X": 2.55,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102410,
+          "team1": "Агабабян Р",
+          "team2": "Яковлев А",
+          "time": "Сегодня в 14:05",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102411,
+          "team1": "Чахур В",
+          "team2": "Глазун Е",
+          "time": "Сегодня в 15:35",
+          "total": "-",
+          "odds": {
+            "1": 2.23,
+            "X": 1.58,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102412,
+          "team1": "Леднев И",
+          "team2": "Ольшаков К",
+          "time": "Сегодня в 16:05",
+          "total": "-",
+          "odds": {
+            "1": 1.47,
+            "X": 2.5,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102413,
+          "team1": "Глазун Е",
+          "team2": "Леднев И",
+          "time": "Сегодня в 16:35",
+          "total": "-",
+          "odds": {
+            "1": 1.55,
+            "X": 2.3,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102414,
+          "team1": "Ольшаков К",
+          "team2": "Чахур В",
+          "time": "Сегодня в 17:05",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102415,
+          "team1": "Чахур В",
+          "team2": "Леднев И",
+          "time": "Сегодня в 17:35",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102416,
+          "team1": "Глазун Е",
+          "team2": "Ольшаков К",
+          "time": "Сегодня в 18:05",
+          "total": "-",
+          "odds": {
+            "1": 2.23,
+            "X": 1.58,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11377,
+      "championship_name": "РОССИЯ. ЛИГА ПРО А3. МОСКВА",
+      "matches": [
+        {
+          "match_id": 102417,
+          "team1": "Потапков А",
+          "team2": "Базилевский В",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1.23,
+            "X": 3.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102422,
+          "team1": "Крючков Е",
+          "team2": "Лопатин С",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 3.45,
+            "X": 1.26,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102423,
+          "team1": "Базилевский В",
+          "team2": "Крючков Е",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 1.3,
+            "X": 3.2,
+            "2": 1.93,
+            "HANDICAP 1": {
+              "value": 1.77,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102424,
+          "team1": "Лопатин С",
+          "team2": "Потапков А",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 2.5,
+            "X": 1.47,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102425,
+          "team1": "Потапков А",
+          "team2": "Крючков Е",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 1.5,
+            "X": 2.4,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102426,
+          "team1": "Базилевский В",
+          "team2": "Лопатин С",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 2.1,
+            "X": 1.65,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102427,
+          "team1": "Кузнецов А М",
+          "team2": "Никулин С",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 2.23,
+            "X": 1.58,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102428,
+          "team1": "Гусев А С",
+          "team2": "Помазков А",
+          "time": "Сегодня в 12:20",
+          "total": "-",
+          "odds": {
+            "1": 2.5,
+            "X": 1.47,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102429,
+          "team1": "Никулин С",
+          "team2": "Гусев А С",
+          "time": "Сегодня в 12:50",
+          "total": "-",
+          "odds": {
+            "1": 1.55,
+            "X": 2.3,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102430,
+          "team1": "Кузнецов А М",
+          "team2": "Гусев А С",
+          "time": "Сегодня в 13:50",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102431,
+          "team1": "Никулин С",
+          "team2": "Помазков А",
+          "time": "Сегодня в 14:20",
+          "total": "-",
+          "odds": {
+            "1": 1.76,
+            "X": 1.94,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102432,
+          "team1": "Плевако И",
+          "team2": "Носов А",
+          "time": "Сегодня в 15:50",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102433,
+          "team1": "Мухамеджанов М",
+          "team2": "Письменный А",
+          "time": "Сегодня в 16:20",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102434,
+          "team1": "Носов А",
+          "team2": "Мухамеджанов М",
+          "time": "Сегодня в 16:50",
+          "total": "-",
+          "odds": {
+            "1": 2.55,
+            "X": 1.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102435,
+          "team1": "Письменный А",
+          "team2": "Плевако И",
+          "time": "Сегодня в 17:20",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102436,
+          "team1": "Плевако И",
+          "team2": "Мухамеджанов М",
+          "time": "Сегодня в 17:50",
+          "total": "-",
+          "odds": {
+            "1": 1.76,
+            "X": 1.94,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102437,
+          "team1": "Носов А",
+          "team2": "Письменный А",
+          "time": "Сегодня в 18:20",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11383,
+      "championship_name": "РОССИЯ. ЛИГА ПРО А9. МОСКВА",
+      "matches": [
+        {
+          "match_id": 102438,
+          "team1": "Школьников Ю",
+          "team2": "Ивашов Р",
+          "time": "Сегодня в 19:50",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102439,
+          "team1": "Ивашов Р",
+          "team2": "Цыбульский В",
+          "time": "Сегодня в 20:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102447,
+          "team1": "Школьников Ю",
+          "team2": "Цыбульский В",
+          "time": "Сегодня в 21:50",
+          "total": "-",
+          "odds": {
+            "1": 2.3,
+            "X": 1.55,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11389,
+      "championship_name": "РОССИЯ. ОТКРЫТЫЙ ЧЕМПИОНАТ ЛИГА ДВ. ХАБАРОВСК",
+      "matches": [
+        {
+          "match_id": 102448,
+          "team1": "Баженов А",
+          "team2": "Кирдан П",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1.05,
+            "X": 7.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+10.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.95,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102449,
+          "team1": "Исаев А",
+          "team2": "Диденко Т",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 2.55,
+            "X": 1.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102450,
+          "team1": "Кирдан П",
+          "team2": "Исаев А",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 2.15,
+            "X": 1.62,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102451,
+          "team1": "Диденко Т",
+          "team2": "Баженов А",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 1.28,
+            "X": 3.3,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102452,
+          "team1": "Баженов А",
+          "team2": "Исаев А",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 2.85,
+            "X": 1.37,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102453,
+          "team1": "Кирдан П",
+          "team2": "Диденко Т",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 2.4,
+            "X": 1.5,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102454,
+          "team1": "Ферук Н",
+          "team2": "Сивенков Д",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 2.1,
+            "X": 1.65,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102455,
+          "team1": "Горохов К",
+          "team2": "Галицкий П",
+          "time": "Сегодня в 12:20",
+          "total": "-",
+          "odds": {
+            "1": 1.45,
+            "X": 2.55,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102456,
+          "team1": "Сивенков Д",
+          "team2": "Горохов К",
+          "time": "Сегодня в 12:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102457,
+          "team1": "Галицкий П",
+          "team2": "Ферук Н",
+          "time": "Сегодня в 13:20",
+          "total": "-",
+          "odds": {
+            "1": 1.55,
+            "X": 2.3,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102458,
+          "team1": "Ферук Н",
+          "team2": "Горохов К",
+          "time": "Сегодня в 13:50",
+          "total": "-",
+          "odds": {
+            "1": 3.3,
+            "X": 1.28,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102459,
+          "team1": "Сивенков Д",
+          "team2": "Галицкий П",
+          "time": "Сегодня в 14:20",
+          "total": "-",
+          "odds": {
+            "1": 2.4,
+            "X": 1.5,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.9,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11391,
+      "championship_name": "БЕЛАРУСЬ. ЛИГА ПРО А15. МИНСК",
+      "matches": [
+        {
+          "match_id": 102460,
+          "team1": "Луговский С",
+          "team2": "Ермоленко В",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 4.5,
+            "X": 1.16,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-10.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102467,
+          "team1": "Чертков Д",
+          "team2": "Кужовник С",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102468,
+          "team1": "Ермоленко В",
+          "team2": "Чертков Д",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 1.37,
+            "X": 2.85,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102469,
+          "team1": "Кужовник С",
+          "team2": "Луговский С",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 2.55,
+            "X": 1.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102470,
+          "team1": "Луговский С",
+          "team2": "Чертков Д",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 2.85,
+            "X": 1.37,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102471,
+          "team1": "Ермоленко В",
+          "team2": "Кужовник С",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 1.35,
+            "X": 2.9,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102472,
+          "team1": "Яровой С",
+          "team2": "Гусь С",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102473,
+          "team1": "Байраков А",
+          "team2": "Шепелевич И",
+          "time": "Сегодня в 12:20",
+          "total": "-",
+          "odds": {
+            "1": 2.1,
+            "X": 1.65,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102474,
+          "team1": "Гусь С",
+          "team2": "Байраков А",
+          "time": "Сегодня в 12:50",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102475,
+          "team1": "Шепелевич И",
+          "team2": "Яровой С",
+          "time": "Сегодня в 13:20",
+          "total": "-",
+          "odds": {
+            "1": 3.2,
+            "X": 1.3,
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.93,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102476,
+          "team1": "Яровой С",
+          "team2": "Байраков А",
+          "time": "Сегодня в 13:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102477,
+          "team1": "Гусь С",
+          "team2": "Шепелевич И",
+          "time": "Сегодня в 14:20",
+          "total": "-",
+          "odds": {
+            "1": 2.3,
+            "X": 1.55,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102478,
+          "team1": "Король Д",
+          "team2": "Кулеш А",
+          "time": "Сегодня в 15:50",
+          "total": "-",
+          "odds": {
+            "1": 3.2,
+            "X": 1.3,
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.93,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102479,
+          "team1": "Краснов К",
+          "team2": "Храмеев А",
+          "time": "Сегодня в 16:20",
+          "total": "-",
+          "odds": {
+            "1": 1.26,
+            "X": 3.45,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102480,
+          "team1": "Кулеш А",
+          "team2": "Краснов К",
+          "time": "Сегодня в 16:50",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102481,
+          "team1": "Храмеев А",
+          "team2": "Король Д",
+          "time": "Сегодня в 17:20",
+          "total": "-",
+          "odds": {
+            "1": 1.55,
+            "X": 2.3,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102482,
+          "team1": "Король Д",
+          "team2": "Краснов К",
+          "time": "Сегодня в 17:50",
+          "total": "-",
+          "odds": {
+            "1": 2.65,
+            "X": 1.43,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102483,
+          "team1": "Кулеш А",
+          "team2": "Храмеев А",
+          "time": "Сегодня в 18:20",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11399,
+      "championship_name": "ЧЕХИЯ. ЛИГА ПРО А12. ЛИБЕРЕЦ",
+      "matches": [
+        {
+          "match_id": 102492,
+          "team1": "Грохсготт Йи",
+          "team2": "Стрнад Я 1961",
+          "time": "Сегодня в 08:58",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102493,
+          "team1": "Черник Я",
+          "team2": "Кубат В",
+          "time": "Сегодня в 09:28",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102494,
+          "team1": "Стрнад Я 1961",
+          "team2": "Черник Я",
+          "time": "Сегодня в 09:58",
+          "total": "-",
+          "odds": {
+            "1": 2.65,
+            "X": 1.43,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102495,
+          "team1": "Кубат В",
+          "team2": "Грохсготт Йи",
+          "time": "Сегодня в 10:28",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102496,
+          "team1": "Грохсготт Йи",
+          "team2": "Черник Я",
+          "time": "Сегодня в 10:58",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102497,
+          "team1": "Стрнад Я 1961",
+          "team2": "Кубат В",
+          "time": "Сегодня в 11:28",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102498,
+          "team1": "Кучера Т",
+          "team2": "Кулганек П-л",
+          "time": "Сегодня в 12:58",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102499,
+          "team1": "Черник Я",
+          "team2": "Грохсготт Йи",
+          "time": "Сегодня в 13:28",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102500,
+          "team1": "Кулганек П-л",
+          "team2": "Черник Я",
+          "time": "Сегодня в 13:58",
+          "total": "-",
+          "odds": {
+            "1": 2.15,
+            "X": 1.62,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102501,
+          "team1": "Грохсготт Йи",
+          "team2": "Кучера Т",
+          "time": "Сегодня в 14:28",
+          "total": "-",
+          "odds": {
+            "1": 3.8,
+            "X": 1.22,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102502,
+          "team1": "Кучера Т",
+          "team2": "Черник Я",
+          "time": "Сегодня в 14:58",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102503,
+          "team1": "Кулганек П-л",
+          "team2": "Грохсготт Йи",
+          "time": "Сегодня в 15:28",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11401,
+      "championship_name": "ЧЕХИЯ. ЛИГА ПРО А14. ЛИБЕРЕЦ",
+      "matches": [
+        {
+          "match_id": 102504,
+          "team1": "Гаврда Ч",
+          "team2": "Швец Й",
+          "time": "Сегодня в 08:58",
+          "total": "-",
+          "odds": {
+            "1": 2.3,
+            "X": 1.55,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102505,
+          "team1": "Гейдук А",
+          "team2": "Смешны М",
+          "time": "Сегодня в 09:28",
+          "total": "-",
+          "odds": {
+            "1": 1.4,
+            "X": 2.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102506,
+          "team1": "Швец Й",
+          "team2": "Гейдук А",
+          "time": "Сегодня в 09:58",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102507,
+          "team1": "Смешны М",
+          "team2": "Гаврда Ч",
+          "time": "Сегодня в 10:28",
+          "total": "-",
+          "odds": {
+            "1": 3.3,
+            "X": 1.28,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102515,
+          "team1": "Гаврда Ч",
+          "team2": "Гейдук А",
+          "time": "Сегодня в 10:58",
+          "total": "-",
+          "odds": {
+            "1": 3.8,
+            "X": 1.22,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102516,
+          "team1": "Швец Й",
+          "team2": "Смешны М",
+          "time": "Сегодня в 11:28",
+          "total": "-",
+          "odds": {
+            "1": 1.4,
+            "X": 2.7,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102517,
+          "team1": "Штеффан Я",
+          "team2": "Дарин Кырыл",
+          "time": "Сегодня в 12:58",
+          "total": "-",
+          "odds": {
+            "1": 3.0,
+            "X": 1.33,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102518,
+          "team1": "Малек Л",
+          "team2": "Тринта М",
+          "time": "Сегодня в 13:28",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102519,
+          "team1": "Дарин Кырыл",
+          "team2": "Малек Л",
+          "time": "Сегодня в 13:58",
+          "total": "-",
+          "odds": {
+            "1": 1.22,
+            "X": 3.8,
+            "2": 1.93,
+            "HANDICAP 1": {
+              "value": 1.77,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102520,
+          "team1": "Тринта М",
+          "team2": "Штеффан Я",
+          "time": "Сегодня в 14:28",
+          "total": "-",
+          "odds": {
+            "1": 1.28,
+            "X": 3.3,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102521,
+          "team1": "Штеффан Я",
+          "team2": "Малек Л",
+          "time": "Сегодня в 14:58",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102522,
+          "team1": "Дарин Кырыл",
+          "team2": "Тринта М",
+          "time": "Сегодня в 15:28",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11407,
+      "championship_name": "ЧЕХИЯ. ЛИГА ПРО А16. ГАВЛИЧКУВ БРОД",
+      "matches": [
+        {
+          "match_id": 102523,
+          "team1": "Гайек М",
+          "team2": "Зикмунда З",
+          "time": "Сегодня в 08:58",
+          "total": "-",
+          "odds": {
+            "1": 1.62,
+            "X": 2.15,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102524,
+          "team1": "Флесар М",
+          "team2": "Шванда Л",
+          "time": "Сегодня в 09:28",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102525,
+          "team1": "Зикмунда З",
+          "team2": "Флесар М",
+          "time": "Сегодня в 09:58",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102526,
+          "team1": "Шванда Л",
+          "team2": "Гайек М",
+          "time": "Сегодня в 10:28",
+          "total": "-",
+          "odds": {
+            "1": 3.7,
+            "X": 1.23,
+            "2": 1.76,
+            "HANDICAP 1": {
+              "value": 1.94,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102527,
+          "team1": "Гайек М",
+          "team2": "Флесар М",
+          "time": "Сегодня в 10:58",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102528,
+          "team1": "Зикмунда З",
+          "team2": "Шванда Л",
+          "time": "Сегодня в 11:28",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102529,
+          "team1": "Голас П",
+          "team2": "Неедли М",
+          "time": "Сегодня в 12:58",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102530,
+          "team1": "Маховец П",
+          "team2": "Хвойка-старший М",
+          "time": "Сегодня в 13:28",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.57,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102531,
+          "team1": "Неедли М",
+          "team2": "Маховец П",
+          "time": "Сегодня в 13:58",
+          "total": "-",
+          "odds": {
+            "1": 1.62,
+            "X": 2.15,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102539,
+          "team1": "Хвойка-старший М",
+          "team2": "Голас П",
+          "time": "Сегодня в 14:28",
+          "total": "-",
+          "odds": {
+            "1": 2.45,
+            "X": 1.48,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102540,
+          "team1": "Голас П",
+          "team2": "Маховец П",
+          "time": "Сегодня в 14:58",
+          "total": "-",
+          "odds": {
+            "1": 1.62,
+            "X": 2.15,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102541,
+          "team1": "Неедли М",
+          "team2": "Хвойка-старший М",
+          "time": "Сегодня в 15:28",
+          "total": "-",
+          "odds": {
+            "1": 1.35,
+            "X": 2.9,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11411,
+      "championship_name": "ЧЕХИЯ. ЛИГА ПРО А17. ЛИБЕРЕЦ",
+      "matches": [
+        {
+          "match_id": 102542,
+          "team1": "Чермак В",
+          "team2": "Прокупек Я",
+          "time": "Сегодня в 08:58",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102543,
+          "team1": "Тума Д",
+          "team2": "Коштял М",
+          "time": "Сегодня в 09:28",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102544,
+          "team1": "Прокупек Я",
+          "team2": "Тума Д",
+          "time": "Сегодня в 09:58",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102545,
+          "team1": "Коштял М",
+          "team2": "Чермак В",
+          "time": "Сегодня в 10:28",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102546,
+          "team1": "Чермак В",
+          "team2": "Тума Д",
+          "time": "Сегодня в 10:58",
+          "total": "-",
+          "odds": {
+            "1": 1.28,
+            "X": 3.3,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102547,
+          "team1": "Прокупек Я",
+          "team2": "Коштял М",
+          "time": "Сегодня в 11:28",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102548,
+          "team1": "Томаш Д",
+          "team2": "Стрнад Я 1964",
+          "time": "Сегодня в 12:58",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102549,
+          "team1": "Шприняр П",
+          "team2": "Лубас М",
+          "time": "Сегодня в 13:28",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102550,
+          "team1": "Стрнад Я 1964",
+          "team2": "Шприняр П",
+          "time": "Сегодня в 13:58",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102551,
+          "team1": "Лубас М",
+          "team2": "Томаш Д",
+          "time": "Сегодня в 14:28",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102552,
+          "team1": "Томаш Д",
+          "team2": "Шприняр П",
+          "time": "Сегодня в 14:58",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102553,
+          "team1": "Стрнад Я 1964",
+          "team2": "Лубас М",
+          "time": "Сегодня в 15:28",
+          "total": "-",
+          "odds": {
+            "1": 1.4,
+            "X": 2.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11413,
+      "championship_name": "ЧЕХИЯ. ЛИГА ПРО А18. ОСТРАВА",
+      "matches": [
+        {
+          "match_id": 102554,
+          "team1": "Мацура Р",
+          "team2": "Стршелец А",
+          "time": "Сегодня в 08:58",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102555,
+          "team1": "Скацелик Р",
+          "team2": "Павлиска М",
+          "time": "Сегодня в 09:28",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102563,
+          "team1": "Стршелец А",
+          "team2": "Скацелик Р",
+          "time": "Сегодня в 09:58",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102564,
+          "team1": "Павлиска М",
+          "team2": "Мацура Р",
+          "time": "Сегодня в 10:28",
+          "total": "-",
+          "odds": {
+            "1": 2.85,
+            "X": 1.37,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102565,
+          "team1": "Мацура Р",
+          "team2": "Скацелик Р",
+          "time": "Сегодня в 10:58",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102566,
+          "team1": "Стршелец А",
+          "team2": "Павлиска М",
+          "time": "Сегодня в 11:28",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102567,
+          "team1": "Кочи Р",
+          "team2": "Йохим П",
+          "time": "Сегодня в 12:58",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102568,
+          "team1": "Крупник-младший Л",
+          "team2": "Зика М",
+          "time": "Сегодня в 13:28",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102569,
+          "team1": "Йохим П",
+          "team2": "Крупник-младший Л",
+          "time": "Сегодня в 13:58",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102570,
+          "team1": "Зика М",
+          "team2": "Кочи Р",
+          "time": "Сегодня в 14:28",
+          "total": "-",
+          "odds": {
+            "1": 4.4,
+            "X": 1.17,
+            "2": 1.76,
+            "HANDICAP 1": {
+              "value": 1.94,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102571,
+          "team1": "Кочи Р",
+          "team2": "Крупник-младший Л",
+          "time": "Сегодня в 14:58",
+          "total": "-",
+          "odds": {
+            "1": 1.28,
+            "X": 3.3,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102572,
+          "team1": "Йохим П",
+          "team2": "Зика М",
+          "time": "Сегодня в 15:28",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11419,
+      "championship_name": "ЧЕЛЛЕНДЖЕР СЕРИЯ. ГЕРМАНИЯ",
+      "matches": [
+        {
+          "match_id": 102573,
+          "team1": "Набарро Дж",
+          "team2": "Шим Д",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 7.7,
+            "X": 1.05,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11421,
+      "championship_name": "TT CUP. ПОЛЬША",
+      "matches": [
+        {
+          "match_id": 102574,
+          "team1": "Лисаковский М",
+          "team2": "Стапор Д",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11423,
+      "championship_name": "TT CUP. ЧЕХИЯ",
+      "matches": [
+        {
+          "match_id": 102575,
+          "team1": "Колбусовски М",
+          "team2": "Вилгелм П",
+          "time": "Сегодня в 09:10",
+          "total": "-",
+          "odds": {
+            "1": 3.3,
+            "X": 1.28,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102579,
+          "team1": "Спегель Я",
+          "team2": "Мутл Д",
+          "time": "Сегодня в 09:40",
+          "total": "-",
+          "odds": {
+            "1": 3.55,
+            "X": 1.25,
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.76,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102580,
+          "team1": "Котрбаты П",
+          "team2": "Сохор Д",
+          "time": "Сегодня в 09:45",
+          "total": "-",
+          "odds": {
+            "1": 2.45,
+            "X": 1.48,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102581,
+          "team1": "Колбусовски М",
+          "team2": "Мутл Д",
+          "time": "Сегодня в 10:10",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102582,
+          "team1": "Брожек М-л",
+          "team2": "Косацки А",
+          "time": "Сегодня в 10:15",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102583,
+          "team1": "Вилгелм П",
+          "team2": "Спегель Я",
+          "time": "Сегодня в 10:40",
+          "total": "-",
+          "odds": {
+            "1": 1.13,
+            "X": 5.1,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+9.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102584,
+          "team1": "Котрбаты П",
+          "team2": "Косацки А",
+          "time": "Сегодня в 10:45",
+          "total": "-",
+          "odds": {
+            "1": 1.58,
+            "X": 2.23,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102585,
+          "team1": "Колбусовски М",
+          "team2": "Спегель Я",
+          "time": "Сегодня в 11:10",
+          "total": "-",
+          "odds": {
+            "1": 1.28,
+            "X": 3.3,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102586,
+          "team1": "Сохор Д",
+          "team2": "Брожек М-л",
+          "time": "Сегодня в 11:15",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102587,
+          "team1": "Мутл Д",
+          "team2": "Вилгелм П",
+          "time": "Сегодня в 11:40",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102588,
+          "team1": "Котрбаты П",
+          "team2": "Брожек М-л",
+          "time": "Сегодня в 11:45",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11433,
+      "championship_name": "TT ELITE SERIES. ПОЛЬША",
+      "matches": [
+        {
+          "match_id": 102589,
+          "team1": "Крчил Ф",
+          "team2": "Бальцежак М",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1.13,
+            "X": 5.1,
+            "2": 1.76,
+            "HANDICAP 1": {
+              "value": 1.94,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102590,
+          "team1": "Дош С",
+          "team2": "Ходорский П",
+          "time": "Unknown",
+          "total": "-",
+          "odds": {
+            "1": 1.7,
+            "X": 2.03,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102591,
+          "team1": "Висек А",
+          "team2": "Витковский А",
+          "time": "Сегодня в 08:15",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102595,
+          "team1": "Муравский М",
+          "team2": "Крчил Ф",
+          "time": "Сегодня в 08:35",
+          "total": "-",
+          "odds": {
+            "1": 1.22,
+            "X": 3.8,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102596,
+          "team1": "Бенеш М",
+          "team2": "Браун Йо",
+          "time": "Сегодня в 08:40",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102597,
+          "team1": "Масловский Я",
+          "team2": "Бальцежак М",
+          "time": "Сегодня в 09:00",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102598,
+          "team1": "Ходорский П",
+          "team2": "Витковский А",
+          "time": "Сегодня в 09:05",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102599,
+          "team1": "Спыхала А",
+          "team2": "Крчил Ф",
+          "time": "Сегодня в 09:25",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102600,
+          "team1": "Дош С",
+          "team2": "Бенеш М",
+          "time": "Сегодня в 09:30",
+          "total": "-",
+          "odds": {
+            "1": 2.45,
+            "X": 1.48,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102601,
+          "team1": "Муравский М",
+          "team2": "Масловский Я",
+          "time": "Сегодня в 10:00",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102602,
+          "team1": "Висек А",
+          "team2": "Браун Йо",
+          "time": "Сегодня в 10:05",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102603,
+          "team1": "Бальцежак М",
+          "team2": "Новалински М",
+          "time": "Сегодня в 10:25",
+          "total": "-",
+          "odds": {
+            "1": 4.2,
+            "X": 1.19,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102604,
+          "team1": "Ходорский П",
+          "team2": "Бенеш М",
+          "time": "Сегодня в 10:30",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102605,
+          "team1": "Спыхала А",
+          "team2": "Масловский Я",
+          "time": "Сегодня в 10:45",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102606,
+          "team1": "Дош С",
+          "team2": "Висек А",
+          "time": "Сегодня в 10:50",
+          "total": "-",
+          "odds": {
+            "1": 2.07,
+            "X": 1.67,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102607,
+          "team1": "Крчил Ф",
+          "team2": "Новалински М",
+          "time": "Сегодня в 11:10",
+          "total": "-",
+          "odds": {
+            "1": 4.2,
+            "X": 1.19,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102608,
+          "team1": "Браун Йо",
+          "team2": "Витковский А",
+          "time": "Сегодня в 11:15",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.57,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102609,
+          "team1": "Муравский М",
+          "team2": "Бальцежак М",
+          "time": "Сегодня в 11:35",
+          "total": "-",
+          "odds": {
+            "1": 1.13,
+            "X": 5.1,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+9.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102610,
+          "team1": "Ходорский П",
+          "team2": "Висек А",
+          "time": "Сегодня в 11:40",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102611,
+          "team1": "Бенеш М",
+          "team2": "Витковский А",
+          "time": "Сегодня в 12:00",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11437,
+      "championship_name": "SETKA CUP",
+      "matches": [
+        {
+          "match_id": 102618,
+          "team1": "Козачук И",
+          "team2": "Котик А",
+          "time": "Сегодня в 08:15",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102619,
+          "team1": "Макара М",
+          "team2": "Мезера О",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102620,
+          "team1": "Мирошниченко С",
+          "team2": "Куриленко О",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102621,
+          "team1": "Григорьев Р",
+          "team2": "Матвийчук В",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 1.2,
+            "X": 4.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102622,
+          "team1": "Шишман А",
+          "team2": "Котяш А",
+          "time": "Сегодня в 08:20",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102623,
+          "team1": "Троян А",
+          "team2": "Мыцык Александр",
+          "time": "Сегодня в 08:25",
+          "total": "-",
+          "odds": {
+            "1": 1.4,
+            "X": 2.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102624,
+          "team1": "Дуровиц Р",
+          "team2": "Вейгл Л",
+          "time": "Сегодня в 08:35",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102625,
+          "team1": "Саволюк В",
+          "team2": "Мерзликин В",
+          "time": "Сегодня в 08:40",
+          "total": "-",
+          "odds": {
+            "1": 1.43,
+            "X": 2.65,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102626,
+          "team1": "Пестерников Д",
+          "team2": "Биндас О",
+          "time": "Сегодня в 08:45",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.57,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102627,
+          "team1": "Вана М",
+          "team2": "Скиба М",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102628,
+          "team1": "Гончаренко С",
+          "team2": "Урезченко Ю",
+          "time": "Сегодня в 08:50",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102629,
+          "team1": "Григоренко С",
+          "team2": "Волков Ю",
+          "time": "Сегодня в 08:55",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102630,
+          "team1": "Данилюк Н",
+          "team2": "Левшин В",
+          "time": "Сегодня в 08:55",
+          "total": "-",
+          "odds": {
+            "1": 2.9,
+            "X": 1.35,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102631,
+          "team1": "Грубр В",
+          "team2": "Вейгл Л",
+          "time": "Сегодня в 09:05",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102632,
+          "team1": "Ищук В",
+          "team2": "Назаров А",
+          "time": "Сегодня в 09:10",
+          "total": "-",
+          "odds": {
+            "1": 1.27,
+            "X": 3.4,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102633,
+          "team1": "Козачук И",
+          "team2": "Кистечко М",
+          "time": "Сегодня в 09:15",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102634,
+          "team1": "Макара М",
+          "team2": "Скиба М",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 1.8,
+            "X": 1.9,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102635,
+          "team1": "Куриленко О",
+          "team2": "Панченко Б С",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 3.2,
+            "X": 1.3,
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.93,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102643,
+          "team1": "Котяш А",
+          "team2": "Емец И",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102644,
+          "team1": "Антикуз Н",
+          "team2": "Григорьев Р",
+          "time": "Сегодня в 09:20",
+          "total": "-",
+          "odds": {
+            "1": 2.65,
+            "X": 1.43,
+            "2": 1.77,
+            "HANDICAP 1": {
+              "value": 1.93,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102645,
+          "team1": "Волынец О",
+          "team2": "Троян А",
+          "time": "Сегодня в 09:25",
+          "total": "-",
+          "odds": {
+            "1": 3.3,
+            "X": 1.28,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102646,
+          "team1": "Шамрай А",
+          "team2": "Жолубак Р",
+          "time": "Сегодня в 09:25",
+          "total": "-",
+          "odds": {
+            "1": 1.3,
+            "X": 3.2,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102647,
+          "team1": "Дуровиц Р",
+          "team2": "Дрбоглав М",
+          "time": "Сегодня в 09:35",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102648,
+          "team1": "Сокур М",
+          "team2": "Кузишин О",
+          "time": "Сегодня в 09:40",
+          "total": "-",
+          "odds": {
+            "1": 1.57,
+            "X": 2.25,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102649,
+          "team1": "Биндас О",
+          "team2": "Котик А",
+          "time": "Сегодня в 09:45",
+          "total": "-",
+          "odds": {
+            "1": 1.4,
+            "X": 2.7,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102650,
+          "team1": "Гончаренко С",
+          "team2": "Матвийчук В",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 1.23,
+            "X": 3.7,
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.76,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102651,
+          "team1": "Тверитинов Р",
+          "team2": "Мирошниченко С",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102652,
+          "team1": "Лящевский С",
+          "team2": "Шишман А",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 2.65,
+            "X": 1.43,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102653,
+          "team1": "Вана М",
+          "team2": "Мезера О",
+          "time": "Сегодня в 09:50",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102654,
+          "team1": "Григоренко С",
+          "team2": "Мыцык Александр",
+          "time": "Сегодня в 09:55",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102655,
+          "team1": "Левшин В",
+          "team2": "Вербяный В",
+          "time": "Сегодня в 09:55",
+          "total": "-",
+          "odds": {
+            "1": 1.17,
+            "X": 4.4,
+            "2": 1.93,
+            "HANDICAP 1": {
+              "value": 1.77,
+              "param": "+9.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102656,
+          "team1": "Грубр В",
+          "team2": "Дуровиц Р",
+          "time": "Сегодня в 10:05",
+          "total": "-",
+          "odds": {
+            "1": 1.48,
+            "X": 2.45,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102657,
+          "team1": "Саволюк В",
+          "team2": "Назаров А",
+          "time": "Сегодня в 10:10",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102658,
+          "team1": "Пестерников Д",
+          "team2": "Кистечко М",
+          "time": "Сегодня в 10:15",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102659,
+          "team1": "Макара М",
+          "team2": "Вана М",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.57,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.8,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102660,
+          "team1": "Карпенко О",
+          "team2": "Котяш А",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 1.37,
+            "X": 2.85,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+6.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102668,
+          "team1": "Зякун А",
+          "team2": "Куриленко О",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102669,
+          "team1": "Григорьев Р",
+          "team2": "Урезченко Ю",
+          "time": "Сегодня в 10:20",
+          "total": "-",
+          "odds": {
+            "1": 1.19,
+            "X": 4.2,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102670,
+          "team1": "Троян А",
+          "team2": "Волков Ю",
+          "time": "Сегодня в 10:25",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102671,
+          "team1": "Данилюк Н",
+          "team2": "Жолубак Р",
+          "time": "Сегодня в 10:25",
+          "total": "-",
+          "odds": {
+            "1": 1.22,
+            "X": 3.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102672,
+          "team1": "Вейгл Л",
+          "team2": "Дрбоглав М",
+          "time": "Сегодня в 10:35",
+          "total": "-",
+          "odds": {
+            "1": 1.6,
+            "X": 2.2,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102673,
+          "team1": "Кузишин О",
+          "team2": "Мерзликин В",
+          "time": "Сегодня в 10:40",
+          "total": "-",
+          "odds": {
+            "1": 2.0,
+            "X": 1.72,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "-1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102674,
+          "team1": "Козачук И",
+          "team2": "Биндас О",
+          "time": "Сегодня в 10:45",
+          "total": "-",
+          "odds": {
+            "1": 2.7,
+            "X": 1.4,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102675,
+          "team1": "Скиба М",
+          "team2": "Мезера О",
+          "time": "Сегодня в 10:50",
+          "total": "-",
+          "odds": {
+            "1": 1.9,
+            "X": 1.8,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102676,
+          "team1": "Антикуз Н",
+          "team2": "Матвийчук В",
+          "time": "Сегодня в 10:50",
+          "total": "-",
+          "odds": {
+            "1": 1.23,
+            "X": 3.7,
+            "2": 1.94,
+            "HANDICAP 1": {
+              "value": 1.76,
+              "param": "+8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102677,
+          "team1": "Шамрай А",
+          "team2": "Левшин В",
+          "time": "Сегодня в 10:55",
+          "total": "-",
+          "odds": {
+            "1": 4.0,
+            "X": 1.2,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102678,
+          "team1": "Волынец О",
+          "team2": "Мыцык Александр",
+          "time": "Сегодня в 10:55",
+          "total": "-",
+          "odds": {
+            "1": 1.27,
+            "X": 3.4,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+7.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102679,
+          "team1": "Ищук В",
+          "team2": "Сокур М",
+          "time": "Сегодня в 11:10",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102680,
+          "team1": "Кистечко М",
+          "team2": "Котик А",
+          "time": "Сегодня в 11:15",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.57,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102681,
+          "team1": "Тверитинов Р",
+          "team2": "Панченко Б С",
+          "time": "Сегодня в 11:20",
+          "total": "-",
+          "odds": {
+            "1": 2.2,
+            "X": 1.6,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102682,
+          "team1": "Лящевский С",
+          "team2": "Емец И",
+          "time": "Сегодня в 11:20",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102683,
+          "team1": "Гончаренко С",
+          "team2": "Григорьев Р",
+          "time": "Сегодня в 11:20",
+          "total": "-",
+          "odds": {
+            "1": 3.7,
+            "X": 1.23,
+            "2": 1.76,
+            "HANDICAP 1": {
+              "value": 1.94,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102684,
+          "team1": "Жолубак Р",
+          "team2": "Вербяный В",
+          "time": "Сегодня в 11:25",
+          "total": "-",
+          "odds": {
+            "1": 2.35,
+            "X": 1.52,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-3.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102685,
+          "team1": "Григоренко С",
+          "team2": "Троян А",
+          "time": "Сегодня в 11:25",
+          "total": "-",
+          "odds": {
+            "1": 4.0,
+            "X": 1.2,
+            "2": 1.85,
+            "HANDICAP 1": {
+              "value": 1.85,
+              "param": "-8.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.87,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102693,
+          "team1": "Саволюк В",
+          "team2": "Кузишин О",
+          "time": "Сегодня в 11:40",
+          "total": "-",
+          "odds": {
+            "1": 1.72,
+            "X": 2.0,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+1.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102694,
+          "team1": "Козачук И",
+          "team2": "Пестерников Д",
+          "time": "Сегодня в 11:45",
+          "total": "-",
+          "odds": {
+            "1": 1.85,
+            "X": 1.85,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-0.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102695,
+          "team1": "Зякун А",
+          "team2": "Мирошниченко С",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 1.62,
+            "X": 2.15,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102696,
+          "team1": "Матвийчук В",
+          "team2": "Урезченко Ю",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 2.35,
+            "X": 1.52,
+            "2": 1.8,
+            "HANDICAP 1": {
+              "value": 1.9,
+              "param": "-4.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102697,
+          "team1": "Карпенко О",
+          "team2": "Шишман А",
+          "time": "Сегодня в 11:50",
+          "total": "-",
+          "odds": {
+            "1": 1.62,
+            "X": 2.15,
+            "2": 1.83,
+            "HANDICAP 1": {
+              "value": 1.87,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102698,
+          "team1": "Шамрай А",
+          "team2": "Данилюк Н",
+          "time": "Сегодня в 11:55",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.87,
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102699,
+          "team1": "Мыцык Александр",
+          "team2": "Волков Ю",
+          "time": "Сегодня в 11:55",
+          "total": "-",
+          "odds": {
+            "1": 2.7,
+            "X": 1.4,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "-5.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.85,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102700,
+          "team1": "Плыска О",
+          "team2": "Сабука Д",
+          "time": "Сегодня в 12:05",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 102701,
+          "team1": "Сокур М",
+          "team2": "Назаров А",
+          "time": "Сегодня в 12:10",
+          "total": "-",
+          "odds": {
+            "1": 1.67,
+            "X": 2.07,
+            "2": 1.9,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": 1.83,
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-15 08:12:34"
+}

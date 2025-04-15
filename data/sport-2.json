@@ -1,0 +1,321 @@
+{
+  "sport_id": 20,
+  "sport_name": "Sports",
+  "sport_url": "sport-2",
+  "url": "https://fon.bet/sports/sport-2",
+  "championships": [
+    {
+      "championship_id": 11791,
+      "championship_name": "КОННЫЙ СПОРТ. ПОЛО. США. U.S. OPEN POLO CHAMPIONSHIP",
+      "matches": [
+        {
+          "match_id": 103276,
+          "team1": "Ла Долфина-Тамера",
+          "team2": "Кока-Кола",
+          "time": "Завтра в 18:00",
+          "total": "-",
+          "odds": {
+            "1": 1.1,
+            "X": 5.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103277,
+          "team1": "Ла Долфина-Кэтамаунт",
+          "team2": "Парк Плэйс",
+          "time": "Завтра в 20:00",
+          "total": "-",
+          "odds": {
+            "1": 3.9,
+            "X": 1.2,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11793,
+      "championship_name": "КОННЫЙ СПОРТ. ПОЛО. NATIONAL PRESIDENT'S CUP",
+      "matches": [
+        {
+          "match_id": 103278,
+          "team1": "Органик Мэттерс",
+          "team2": "ТНТ Глобал-Джет Сет",
+          "time": "17 апреля в 18:00",
+          "total": "-",
+          "odds": {
+            "1": 2.4,
+            "X": 1.5,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103279,
+          "team1": "Стэйт Фарм",
+          "team2": "Фросс & Фросс",
+          "time": "17 апреля в 20:00",
+          "total": "-",
+          "odds": {
+            "1": 5.9,
+            "X": 1.1,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11795,
+      "championship_name": "КОННЫЙ СПОРТ. ПОЛО. PORT MAYACA POLO",
+      "matches": [
+        {
+          "match_id": 103280,
+          "team1": "Ла Фе Истерн Хэй",
+          "team2": "Дутта Корп",
+          "time": "Сегодня в 16:30",
+          "total": "-",
+          "odds": {
+            "1": 1.15,
+            "X": 4.7,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11797,
+      "championship_name": "КОННЫЙ СПОРТ. ПОЛО. NPC INTERNATIONAL EVENT",
+      "matches": [
+        {
+          "match_id": 103281,
+          "team1": "Уругвай",
+          "team2": "США",
+          "time": "27 апреля в 23:00",
+          "total": "-",
+          "odds": {
+            "1": 4.7,
+            "X": 1.15,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11799,
+      "championship_name": "ПЕЛОТА. JAI-ALAI MAGIC CITY",
+      "matches": [
+        {
+          "match_id": 103282,
+          "team1": "Форонда/Бенни (Девилс)",
+          "team2": "Икеда / Ману (Сайклонс)",
+          "time": "Завтра в 00:00",
+          "total": "-",
+          "odds": {
+            "1": 1.52,
+            "X": 2.35,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103283,
+          "team1": "Кубала (Девилс)",
+          "team2": "Буэно (Сайклонс)",
+          "time": "Завтра в 00:20",
+          "total": "-",
+          "odds": {
+            "1": 2.25,
+            "X": 1.58,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103284,
+          "team1": "Бэнни (Девилс)",
+          "team2": "Инаки (Сайклонс)",
+          "time": "Завтра в 00:40",
+          "total": "-",
+          "odds": {
+            "1": 3.55,
+            "X": 1.25,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103285,
+          "team1": "Николас/Кубала (Девилс)",
+          "team2": "Буэно / Амигорена (Сайклонс)",
+          "time": "Завтра в 01:00",
+          "total": "-",
+          "odds": {
+            "1": 1.25,
+            "X": 3.5,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103286,
+          "team1": "Форонда / Крб (Девилс)",
+          "team2": "Икеда / Рок (Сайклонс)",
+          "time": "Завтра в 01:20",
+          "total": "-",
+          "odds": {
+            "1": 1.18,
+            "X": 4.3,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103287,
+          "team1": "Карбалье / Николас(Девилс)",
+          "team2": "Инаки / Ману (Сайклонс)",
+          "time": "Завтра в 01:40",
+          "total": "-",
+          "odds": {
+            "1": 3.95,
+            "X": 1.2,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11801,
+      "championship_name": "ПИКЛБОЛ. MLP ORLANDO",
+      "matches": [
+        {
+          "match_id": 103288,
+          "team1": "Саутерн Калифорния Хард Эйтс",
+          "team2": "Майами Пиклбол Клаб",
+          "time": "24 апреля в 22:00",
+          "total": "-",
+          "odds": {
+            "1": 1.1,
+            "X": 5.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    },
+    {
+      "championship_id": 11807,
+      "championship_name": "ПИКЛБОЛ. MLP ORLANDO. МИКСТ. ПАРЫ",
+      "matches": [
+        {
+          "match_id": 103289,
+          "team1": "Игра 1. Саутерн Калифорния Хард Эйтс",
+          "team2": "Майами Пиклбол Клаб",
+          "time": "24 апреля в 22:00",
+          "total": "-",
+          "odds": {
+            "1": 1.2,
+            "X": 3.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        },
+        {
+          "match_id": 103290,
+          "team1": "Игра 2. Саутерн Калифорния Хард Эйтс",
+          "team2": "Майами Пиклбол Клаб",
+          "time": "24 апреля в 22:05",
+          "total": "-",
+          "odds": {
+            "1": 1.1,
+            "X": 5.9,
+            "2": "-",
+            "HANDICAP 1": "-",
+            "HANDICAP 2": "-",
+            "TOTAL": "-",
+            "OVER": "-",
+            "UNDER": "-"
+          },
+          "events": []
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-15 08:24:31"
+}

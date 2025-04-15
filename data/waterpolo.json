@@ -1,0 +1,111 @@
+{
+  "sport_id": 12,
+  "sport_name": "Water Polo",
+  "sport_url": "waterpolo",
+  "url": "https://fon.bet/sports/waterpolo",
+  "championships": [
+    {
+      "championship_id": 11699,
+      "championship_name": "КУБОК МИРА. ЖЕНЩИНЫ. 1-Й ДИВИЗИОН. КИТАЙ. 1/4 ФИНАЛА",
+      "matches": [
+        {
+          "match_id": 103161,
+          "team1": "Нидерланды (ж)",
+          "team2": "Япония (ж)",
+          "time": "18 апреля в 10:30",
+          "total": "28.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.75,
+              "param": "-7.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.96,
+              "param": "+7.5"
+            },
+            "TOTAL": "28.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        },
+        {
+          "match_id": 103162,
+          "team1": "Греция (ж)",
+          "team2": "Италия (ж)",
+          "time": "18 апреля в 12:00",
+          "total": "22.5",
+          "odds": {
+            "1": 2.05,
+            "X": 6.7,
+            "2": 2.2,
+            "HANDICAP 1": {
+              "value": 1.8,
+              "param": "0"
+            },
+            "HANDICAP 2": {
+              "value": 1.9,
+              "param": "0"
+            },
+            "TOTAL": "22.5",
+            "OVER": 1.75,
+            "UNDER": 1.96
+          },
+          "events": []
+        },
+        {
+          "match_id": 103163,
+          "team1": "Испания (ж)",
+          "team2": "Китай (ж)",
+          "time": "18 апреля в 15:30",
+          "total": "25.5",
+          "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-",
+            "HANDICAP 1": {
+              "value": 1.83,
+              "param": "-9.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.87,
+              "param": "+9.5"
+            },
+            "TOTAL": "25.5",
+            "OVER": 1.84,
+            "UNDER": 1.86
+          },
+          "events": []
+        },
+        {
+          "match_id": 103164,
+          "team1": "Австралия (ж)",
+          "team2": "Венгрия (ж)",
+          "time": "18 апреля в 17:00",
+          "total": "23.5",
+          "odds": {
+            "1": 4.3,
+            "X": 7.0,
+            "2": 1.37,
+            "HANDICAP 1": {
+              "value": 1.75,
+              "param": "+2.5"
+            },
+            "HANDICAP 2": {
+              "value": 1.96,
+              "param": "-2.5"
+            },
+            "TOTAL": "23.5",
+            "OVER": 1.85,
+            "UNDER": 1.85
+          },
+          "events": []
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-15 08:19:06"
+}
